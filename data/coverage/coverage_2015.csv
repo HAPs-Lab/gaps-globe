@@ -1,0 +1,114 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_EE03,Košetice,Czechia,GAPS,2015,nPFAS,1,10,10,4
+GAPS_EE03,Košetice,Czechia,GAPS,2015,PFAA,1,17,17,12
+GAPS_EE03,Košetice,Czechia,GAPS,2015,VMS,1,7,7,6
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,PBDE,1,14,14,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,NBFR,1,10,10,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,OPE,1,18,18,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,DP,1,4,4,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,nPFAS,1,10,10,2
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,PFAA,1,17,17,9
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,VMS,1,7,7,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,PBDE,4,14,56,40
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,NBFR,4,10,40,12
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,OPE,5,18,90,37
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,DP,4,4,16,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,VMS,1,7,7,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,PBDE,4,14,56,24
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,NBFR,4,10,40,3
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,OPE,4,18,72,15
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,DP,4,4,16,0
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,VMS,1,7,7,4
+GAPS_GR22,Manizales,Colombia,GAPS,2015,PBDE,4,14,56,13
+GAPS_GR22,Manizales,Colombia,GAPS,2015,NBFR,4,10,40,7
+GAPS_GR22,Manizales,Colombia,GAPS,2015,OPE,4,18,72,27
+GAPS_GR22,Manizales,Colombia,GAPS,2015,DP,4,4,16,4
+GAPS_GR22,Manizales,Colombia,GAPS,2015,nPFAS,1,10,10,5
+GAPS_GR22,Manizales,Colombia,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR22,Manizales,Colombia,GAPS,2015,VMS,1,7,7,5
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,PBDE,2,14,28,12
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,NBFR,2,10,20,4
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,OPE,2,18,36,13
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,DP,2,4,8,0
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,PBDE,3,14,42,6
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,NBFR,3,10,30,3
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,OPE,3,18,54,16
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,DP,3,4,12,1
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,PBDE,2,14,28,12
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,NBFR,2,10,20,6
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,OPE,2,18,36,18
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,DP,2,4,8,0
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,nPFAS,1,10,10,3
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,VMS,1,7,7,5
+GAPS_GR28,Concepción,Chile,GAPS,2015,PBDE,4,14,56,13
+GAPS_GR28,Concepción,Chile,GAPS,2015,NBFR,4,10,40,12
+GAPS_GR28,Concepción,Chile,GAPS,2015,OPE,4,18,72,36
+GAPS_GR28,Concepción,Chile,GAPS,2015,DP,4,4,16,0
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,PBDE,4,14,56,15
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,NBFR,4,10,40,7
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,OPE,4,18,72,26
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,DP,4,4,16,1
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,nPFAS,1,10,10,1
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,VMS,1,7,7,4
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,PFAA,1,17,17,12
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,VMS,1,7,7,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,VMS,1,7,7,4
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,PFAA,1,17,17,9
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,VMS,1,7,7,1
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,nPFAS,1,10,10,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,PFAA,1,17,17,13
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,VMS,1,7,7,6
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,VMS,1,7,7,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,PFAA,1,17,17,13
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,VMS,1,7,7,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,PFAA,1,17,17,5
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,VMS,1,7,7,4
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,VMS,1,7,7,5
+GAPS_WE17,Paris,France,GAPS,2015,nPFAS,1,10,10,7
+GAPS_WE17,Paris,France,GAPS,2015,PFAA,1,17,17,14
+GAPS_WE17,Paris,France,GAPS,2015,VMS,1,7,7,6
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,nPFAS,1,10,10,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,PFAA,1,17,17,6
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,VMS,1,7,7,4
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,VMS,1,7,7,2
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,PFAA,1,17,17,14
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,nPFAS,1,10,10,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,VMS,1,7,7,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,nPFAS,1,10,10,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,VMS,1,7,7,2
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,nPFAS,1,10,10,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,PFAA,1,17,17,6
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,VMS,1,7,7,3
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,VMS,1,7,7,4

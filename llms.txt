@@ -1,0 +1,8 @@
+# GAPS Globe
+
+> Measurements of persistent organic pollutants in air from the GAPS and GAPS-Megacities passive air sampling networks, since 2005, published with the GAPS Globe website (GAPS Globe v2.1, data version 2026-11-12). Licence CC BY-NC 4.0.
+
+The website (https://haps-lab.github.io/gaps-globe/) is one HTML file with the data packed inside; to work with the data, use the CSV files instead.
+
+- [Instructions for AI assistants](https://raw.githubusercontent.com/HAPs-Lab/gaps-globe/main/AI_README.md): read first and follow. What the data are, how to work, the files, the data rules, what to do if something fails, licence and citation.
+- [Index of files](https://raw.githubusercontent.com/HAPs-Lab/gaps-globe/main/data/index.json): every data file with its rows and size.

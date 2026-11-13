@@ -1,0 +1,1494 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF01,Abono,Ghana,GAPS,2005,PCB,4,7,28,1
+GAPS_AF01,Abono,Ghana,GAPS,2005,PBDE,3,3,9,0
+GAPS_AF01,Abono,Ghana,GAPS,2005,OCP,4,11,44,20
+GAPS_AF01,Abono,Ghana,GAPS,2005,NBFR,3,10,30,11
+GAPS_AF01,Abono,Ghana,GAPS,2005,DP,3,2,6,2
+GAPS_AF01,Abono,Ghana,GAPS,2006,PCB,4,7,28,2
+GAPS_AF01,Abono,Ghana,GAPS,2006,NBFR,1,10,10,0
+GAPS_AF01,Abono,Ghana,GAPS,2006,DP,1,2,2,1
+GAPS_AF01,Abono,Ghana,GAPS,2006,OCP,4,11,44,20
+GAPS_AF02,Lilongwe,Malawi,GAPS,2005,PCB,1,7,7,0
+GAPS_AF02,Lilongwe,Malawi,GAPS,2005,PBDE,1,3,3,3
+GAPS_AF02,Lilongwe,Malawi,GAPS,2005,NBFR,1,10,10,0
+GAPS_AF02,Lilongwe,Malawi,GAPS,2005,DP,1,2,2,0
+GAPS_AF02,Lilongwe,Malawi,GAPS,2005,OCP,1,11,11,8
+GAPS_AF03,Kalahari,South Africa,GAPS,2005,PCB,4,7,28,0
+GAPS_AF03,Kalahari,South Africa,GAPS,2005,PBDE,4,3,12,3
+GAPS_AF03,Kalahari,South Africa,GAPS,2005,OCP,4,11,44,11
+GAPS_AF03,Kalahari,South Africa,GAPS,2005,NBFR,3,10,30,5
+GAPS_AF03,Kalahari,South Africa,GAPS,2005,DP,3,2,6,1
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,PCB,3,7,21,1
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,NBFR,1,10,10,3
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,DP,1,2,2,1
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,OCP,3,11,33,18
+GAPS_AF03,Kalahari,South Africa,GAPS,2007,PCB,3,7,21,2
+GAPS_AF03,Kalahari,South Africa,GAPS,2007,OCP,3,11,33,16
+GAPS_AF04,De Aar,South Africa,GAPS,2005,PCB,3,7,21,5
+GAPS_AF04,De Aar,South Africa,GAPS,2005,PBDE,3,3,9,1
+GAPS_AF04,De Aar,South Africa,GAPS,2005,OCP,3,11,33,22
+GAPS_AF04,De Aar,South Africa,GAPS,2005,NBFR,2,10,20,9
+GAPS_AF04,De Aar,South Africa,GAPS,2005,DP,2,2,4,1
+GAPS_AF04,De Aar,South Africa,GAPS,2006,PCB,4,7,28,11
+GAPS_AF04,De Aar,South Africa,GAPS,2006,NBFR,1,10,10,7
+GAPS_AF04,De Aar,South Africa,GAPS,2006,DP,1,2,2,2
+GAPS_AF04,De Aar,South Africa,GAPS,2006,OCP,4,11,44,31
+GAPS_AF04,De Aar,South Africa,GAPS,2007,PCB,4,7,28,19
+GAPS_AF04,De Aar,South Africa,GAPS,2007,OCP,4,11,44,25
+GAPS_AF04,De Aar,South Africa,GAPS,2009,PCB,4,7,28,3
+GAPS_AF04,De Aar,South Africa,GAPS,2009,OCP,4,11,44,18
+GAPS_AF04,De Aar,South Africa,GAPS,2011,PCB,4,7,28,24
+GAPS_AF04,De Aar,South Africa,GAPS,2011,OCP,4,11,44,22
+GAPS_AF04,De Aar,South Africa,GAPS,2014,PCB,4,7,28,17
+GAPS_AF04,De Aar,South Africa,GAPS,2014,PBDE,4,14,56,11
+GAPS_AF04,De Aar,South Africa,GAPS,2014,NBFR,4,10,40,6
+GAPS_AF04,De Aar,South Africa,GAPS,2014,OPE,3,18,54,14
+GAPS_AF04,De Aar,South Africa,GAPS,2014,DP,4,4,16,1
+GAPS_AF04,De Aar,South Africa,GAPS,2014,OCP,4,11,44,22
+GAPS_AF05,Cairo,Egypt,GAPS,2006,PCB,2,7,14,9
+GAPS_AF05,Cairo,Egypt,GAPS,2006,NBFR,1,10,10,6
+GAPS_AF05,Cairo,Egypt,GAPS,2006,DP,1,2,2,1
+GAPS_AF05,Cairo,Egypt,GAPS,2006,OCP,2,11,22,14
+GAPS_AF07,Mt. Kenya,Kenya,GAPS,2009,PCB,4,7,28,0
+GAPS_AF07,Mt. Kenya,Kenya,GAPS,2009,OCP,4,11,44,14
+GAPS_AF08,Vanderbijlpark,South Africa,GAPS,2009,PCB,4,7,28,15
+GAPS_AF08,Vanderbijlpark,South Africa,GAPS,2009,OCP,4,11,44,24
+GAPS_AF09,Vredefort Dome,South Africa,GAPS,2011,PCB,4,7,28,24
+GAPS_AF09,Vredefort Dome,South Africa,GAPS,2011,OCP,4,11,44,21
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,nPFAS,1,7,7,5
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,PFAA,1,17,17,14
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,VMS,1,7,7,6
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2005,PCB,2,7,14,0
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2005,PBDE,2,3,6,3
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2005,OCP,2,11,22,10
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2005,NBFR,1,10,10,2
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2005,DP,1,2,2,1
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2006,PCB,2,7,14,1
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2006,OCP,2,11,22,14
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2007,PCB,1,7,7,5
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2007,OCP,1,11,11,6
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,2005,PCB,2,7,14,2
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,2005,PBDE,2,3,6,2
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,2005,OCP,2,11,22,15
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,2005,NBFR,1,10,10,0
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,2005,DP,1,2,2,0
+GAPS_AS03,Seoul,South Korea,GAPS,2005,PCB,2,7,14,10
+GAPS_AS03,Seoul,South Korea,GAPS,2005,PBDE,2,3,6,6
+GAPS_AS03,Seoul,South Korea,GAPS,2005,NBFR,2,10,20,15
+GAPS_AS03,Seoul,South Korea,GAPS,2005,DP,2,2,4,4
+GAPS_AS03,Seoul,South Korea,GAPS,2005,OCP,2,11,22,13
+GAPS_AS03,Seoul,South Korea,GAPS,2006,PCB,1,7,7,4
+GAPS_AS03,Seoul,South Korea,GAPS,2006,NBFR,1,10,10,7
+GAPS_AS03,Seoul,South Korea,GAPS,2006,DP,1,2,2,2
+GAPS_AS03,Seoul,South Korea,GAPS,2006,OCP,1,11,11,9
+GAPS_AS03,Seoul,South Korea,GAPS,2007,PCB,4,7,28,21
+GAPS_AS03,Seoul,South Korea,GAPS,2007,OCP,4,11,44,28
+GAPS_AS04,Pohang,South Korea,GAPS,2005,PCB,1,7,7,4
+GAPS_AS04,Pohang,South Korea,GAPS,2005,PBDE,1,3,3,3
+GAPS_AS04,Pohang,South Korea,GAPS,2005,NBFR,1,10,10,7
+GAPS_AS04,Pohang,South Korea,GAPS,2005,DP,1,2,2,2
+GAPS_AS04,Pohang,South Korea,GAPS,2005,OCP,1,11,11,6
+GAPS_AS04,Pohang,South Korea,GAPS,2006,PCB,1,7,7,2
+GAPS_AS04,Pohang,South Korea,GAPS,2006,NBFR,1,10,10,7
+GAPS_AS04,Pohang,South Korea,GAPS,2006,DP,1,2,2,2
+GAPS_AS04,Pohang,South Korea,GAPS,2006,OCP,1,11,11,8
+GAPS_AS04,Pohang,South Korea,GAPS,2007,PCB,4,7,28,21
+GAPS_AS04,Pohang,South Korea,GAPS,2007,OCP,4,11,44,28
+GAPS_AS05,Kumamoto,Japan,GAPS,2005,PCB,2,7,14,4
+GAPS_AS05,Kumamoto,Japan,GAPS,2005,PBDE,2,3,6,0
+GAPS_AS05,Kumamoto,Japan,GAPS,2005,NBFR,2,10,20,10
+GAPS_AS05,Kumamoto,Japan,GAPS,2005,DP,2,2,4,3
+GAPS_AS05,Kumamoto,Japan,GAPS,2005,OCP,2,11,22,18
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,2005,PCB,2,7,14,2
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,2005,PBDE,2,3,6,0
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,2005,OCP,2,11,22,16
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,2005,NBFR,1,10,10,0
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,2005,DP,1,2,2,0
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,2005,PCB,2,7,14,2
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,2005,PBDE,2,3,6,4
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,2005,OCP,2,11,22,16
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,2005,NBFR,1,10,10,4
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,2005,DP,1,2,2,2
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2005,PCB,4,7,28,21
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2005,PBDE,4,3,12,4
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2005,OCP,4,11,44,33
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2005,NBFR,3,10,30,19
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2005,DP,3,2,6,6
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,PCB,4,7,28,23
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,DP,1,2,2,2
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,OCP,4,11,44,30
+GAPS_AS09,East Arjun Nagar,India,GAPS,2005,PCB,3,7,21,14
+GAPS_AS09,East Arjun Nagar,India,GAPS,2005,PBDE,3,3,9,3
+GAPS_AS09,East Arjun Nagar,India,GAPS,2005,NBFR,3,10,30,16
+GAPS_AS09,East Arjun Nagar,India,GAPS,2005,DP,3,2,6,4
+GAPS_AS09,East Arjun Nagar,India,GAPS,2005,OCP,3,11,33,26
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,DP,1,2,2,2
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,OCP,4,10,40,25
+GAPS_AS09,East Arjun Nagar,India,GAPS,2007,PCB,4,7,28,28
+GAPS_AS09,East Arjun Nagar,India,GAPS,2007,OCP,4,11,44,29
+GAPS_AS10,Bawana,India,GAPS,2005,PCB,3,7,21,15
+GAPS_AS10,Bawana,India,GAPS,2005,PBDE,3,3,9,4
+GAPS_AS10,Bawana,India,GAPS,2005,NBFR,3,10,30,16
+GAPS_AS10,Bawana,India,GAPS,2005,DP,3,2,6,4
+GAPS_AS10,Bawana,India,GAPS,2005,OCP,3,11,33,28
+GAPS_AS10,Bawana,India,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS10,Bawana,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS10,Bawana,India,GAPS,2006,OCP,4,10,40,26
+GAPS_AS10,Bawana,India,GAPS,2007,PCB,4,7,28,28
+GAPS_AS10,Bawana,India,GAPS,2007,OCP,4,11,44,29
+GAPS_AS11,Manila,Philippines,GAPS,2005,PCB,4,7,28,24
+GAPS_AS11,Manila,Philippines,GAPS,2005,PBDE,4,3,12,0
+GAPS_AS11,Manila,Philippines,GAPS,2005,OCP,4,11,44,35
+GAPS_AS11,Manila,Philippines,GAPS,2005,NBFR,3,10,30,15
+GAPS_AS11,Manila,Philippines,GAPS,2005,DP,3,2,6,5
+GAPS_AS11,Manila,Philippines,GAPS,2006,PCB,4,7,28,27
+GAPS_AS11,Manila,Philippines,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS11,Manila,Philippines,GAPS,2006,DP,1,2,2,2
+GAPS_AS11,Manila,Philippines,GAPS,2006,OCP,4,11,44,35
+GAPS_AS11,Manila,Philippines,GAPS,2011,PCB,4,7,28,28
+GAPS_AS11,Manila,Philippines,GAPS,2011,OCP,4,11,44,42
+GAPS_AS11,Manila,Philippines,GAPS,2014,PCB,4,7,28,26
+GAPS_AS11,Manila,Philippines,GAPS,2014,PBDE,4,14,56,37
+GAPS_AS11,Manila,Philippines,GAPS,2014,NBFR,4,10,40,11
+GAPS_AS11,Manila,Philippines,GAPS,2014,OPE,4,18,72,32
+GAPS_AS11,Manila,Philippines,GAPS,2014,DP,4,4,16,0
+GAPS_AS11,Manila,Philippines,GAPS,2014,OCP,4,11,44,38
+GAPS_AS11,Manila,Philippines,GAPS,2017,nPFAS,1,7,7,7
+GAPS_AS11,Manila,Philippines,GAPS,2017,PFAA,1,17,17,9
+GAPS_AS11,Manila,Philippines,GAPS,2017,VMS,1,7,7,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2005,PCB,4,7,28,0
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2005,PBDE,4,3,12,5
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2005,OCP,4,11,44,27
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2005,NBFR,3,10,30,13
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2005,DP,3,2,6,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,PCB,4,7,28,0
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,DP,1,2,2,1
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,OCP,4,11,44,18
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2007,PCB,4,7,28,3
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2007,OCP,4,11,44,9
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2009,PCB,4,7,28,0
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2009,OCP,4,11,44,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2011,PCB,4,7,28,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2011,OCP,4,11,44,9
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,PCB,4,7,28,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,PBDE,4,14,56,10
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,NBFR,4,10,40,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,OPE,4,18,72,18
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,DP,4,4,16,1
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,OCP,4,11,44,15
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,nPFAS,1,7,7,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,PFAA,1,17,17,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,VMS,1,7,7,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2005,PCB,3,7,21,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2005,PBDE,3,3,9,8
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2005,NBFR,3,10,30,13
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2005,DP,3,2,6,6
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2005,OCP,3,11,33,19
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,PCB,4,7,28,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,DP,1,2,2,1
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,OCP,4,11,44,21
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2007,PCB,4,7,28,9
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2007,OCP,4,11,44,16
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2008,DP,1,2,2,1
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2009,PCB,4,7,28,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2009,OCP,4,11,44,9
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,PCB,4,7,28,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,DP,1,2,2,2
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,OCP,4,11,44,15
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,PCB,5,7,35,13
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,PBDE,4,14,56,23
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,NBFR,4,10,40,7
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,OPE,5,18,90,17
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,DP,4,4,16,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,OCP,5,11,55,17
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,nPFAS,1,7,7,5
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,PFAA,1,17,17,2
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,VMS,1,7,7,6
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,NBFR,1,10,10,3
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,OCP,4,10,40,20
+GAPS_AS14,Kaddu Khal,India,GAPS,2007,PCB,4,7,28,20
+GAPS_AS14,Kaddu Khal,India,GAPS,2007,OCP,4,11,44,20
+GAPS_AS15,Laksar,India,GAPS,2006,NBFR,1,10,10,3
+GAPS_AS15,Laksar,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS15,Laksar,India,GAPS,2006,OCP,4,10,40,20
+GAPS_AS15,Laksar,India,GAPS,2007,PCB,4,7,17,16
+GAPS_AS15,Laksar,India,GAPS,2007,OCP,4,11,44,26
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,PCB,2,7,14,4
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,DP,1,2,2,2
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,OCP,2,11,22,14
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2007,PCB,1,7,7,0
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2007,OCP,1,11,11,5
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2009,PCB,4,7,28,5
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2009,OCP,4,11,44,22
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2011,PCB,4,7,28,23
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2011,OCP,4,11,44,22
+GAPS_AS17,Patna,India,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS17,Patna,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS17,Patna,India,GAPS,2006,OCP,4,10,40,23
+GAPS_AS17,Patna,India,GAPS,2007,PCB,4,7,28,23
+GAPS_AS17,Patna,India,GAPS,2007,OCP,4,11,44,28
+GAPS_AS18,Mudhol,India,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS18,Mudhol,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS18,Mudhol,India,GAPS,2006,OCP,4,10,40,21
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2007,PCB,1,7,7,5
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2007,OCP,1,11,11,7
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2009,PCB,2,7,14,9
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2009,OCP,2,11,22,18
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,nPFAS,1,7,7,2
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,PFAA,1,17,17,12
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,VMS,1,7,7,5
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2007,PCB,2,7,14,0
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2007,OCP,2,11,22,0
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2009,PCB,4,7,28,0
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2009,OCP,4,11,44,19
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2011,PCB,4,7,28,21
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2011,OCP,4,11,44,20
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,PCB,4,7,28,18
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,PBDE,4,14,56,7
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,NBFR,4,10,40,6
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,OPE,4,18,72,26
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,DP,4,4,16,3
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,OCP,4,11,44,25
+GAPS_AS21,Abdaly,Kuwait,GAPS,2007,PCB,4,7,28,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2007,OCP,4,11,44,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2009,PCB,4,7,28,12
+GAPS_AS21,Abdaly,Kuwait,GAPS,2009,OCP,4,11,44,13
+GAPS_AS21,Abdaly,Kuwait,GAPS,2011,PCB,1,7,7,6
+GAPS_AS21,Abdaly,Kuwait,GAPS,2011,OCP,1,11,11,6
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,PCB,4,7,28,25
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,PBDE,4,14,56,28
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,NBFR,4,10,40,0
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,OPE,4,18,72,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,DP,4,4,16,0
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,OCP,4,11,44,20
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2007,PCB,4,7,28,22
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2007,OCP,4,11,44,26
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2009,PCB,4,7,28,18
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2009,OCP,4,11,44,25
+GAPS_AS23,Ooty,India,GAPS,2007,PCB,2,7,14,6
+GAPS_AS23,Ooty,India,GAPS,2007,OCP,2,11,22,12
+GAPS_AS24,"Coimbatore, Tamil Nadu",India,GAPS,2007,PCB,3,7,21,12
+GAPS_AS24,"Coimbatore, Tamil Nadu",India,GAPS,2007,OCP,3,11,33,21
+GAPS_AS25,Aliyar Nagar,India,GAPS,2007,PCB,2,7,14,12
+GAPS_AS25,Aliyar Nagar,India,GAPS,2007,OCP,2,11,22,11
+GAPS_EE01,Danki,Russia,GAPS,2005,PCB,4,7,28,14
+GAPS_EE01,Danki,Russia,GAPS,2005,PBDE,4,3,12,0
+GAPS_EE01,Danki,Russia,GAPS,2005,OCP,4,11,44,28
+GAPS_EE01,Danki,Russia,GAPS,2005,NBFR,3,10,30,10
+GAPS_EE01,Danki,Russia,GAPS,2005,DP,3,2,6,4
+GAPS_EE01,Danki,Russia,GAPS,2006,PCB,4,7,28,20
+GAPS_EE01,Danki,Russia,GAPS,2006,NBFR,1,10,10,4
+GAPS_EE01,Danki,Russia,GAPS,2006,DP,1,2,2,0
+GAPS_EE01,Danki,Russia,GAPS,2006,OCP,4,11,44,32
+GAPS_EE01,Danki,Russia,GAPS,2007,PCB,4,7,28,23
+GAPS_EE01,Danki,Russia,GAPS,2007,OCP,4,11,44,23
+GAPS_EE01,Danki,Russia,GAPS,2009,PCB,4,7,28,20
+GAPS_EE01,Danki,Russia,GAPS,2009,OCP,4,11,44,12
+GAPS_EE02,Pomlewo,Poland,GAPS,2005,PCB,4,7,28,17
+GAPS_EE02,Pomlewo,Poland,GAPS,2005,PBDE,4,3,12,0
+GAPS_EE02,Pomlewo,Poland,GAPS,2005,OCP,4,11,44,37
+GAPS_EE02,Pomlewo,Poland,GAPS,2005,NBFR,2,10,20,11
+GAPS_EE02,Pomlewo,Poland,GAPS,2005,DP,2,2,4,3
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,PCB,4,7,28,12
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,NBFR,1,10,10,5
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,DP,1,2,2,1
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,OCP,4,11,44,38
+GAPS_EE02,Pomlewo,Poland,GAPS,2007,PCB,4,7,28,22
+GAPS_EE02,Pomlewo,Poland,GAPS,2007,OCP,4,11,44,29
+GAPS_EE03,Košetice,Czechia,GAPS,2005,PCB,4,7,28,21
+GAPS_EE03,Košetice,Czechia,GAPS,2005,PBDE,4,3,12,3
+GAPS_EE03,Košetice,Czechia,GAPS,2005,OCP,4,11,44,33
+GAPS_EE03,Košetice,Czechia,GAPS,2005,NBFR,3,10,30,11
+GAPS_EE03,Košetice,Czechia,GAPS,2005,DP,3,2,6,5
+GAPS_EE03,Košetice,Czechia,GAPS,2006,PCB,4,7,28,22
+GAPS_EE03,Košetice,Czechia,GAPS,2006,NBFR,1,10,10,4
+GAPS_EE03,Košetice,Czechia,GAPS,2006,DP,1,2,2,2
+GAPS_EE03,Košetice,Czechia,GAPS,2006,OCP,4,11,44,39
+GAPS_EE03,Košetice,Czechia,GAPS,2007,PCB,4,7,28,22
+GAPS_EE03,Košetice,Czechia,GAPS,2007,OCP,4,11,44,19
+GAPS_EE03,Košetice,Czechia,GAPS,2009,PCB,4,7,28,19
+GAPS_EE03,Košetice,Czechia,GAPS,2009,OCP,4,11,44,17
+GAPS_EE03,Košetice,Czechia,GAPS,2009,nPFAS,1,10,10,0
+GAPS_EE03,Košetice,Czechia,GAPS,2009,PFAA,1,17,17,2
+GAPS_EE03,Košetice,Czechia,GAPS,2009,VMS,1,7,7,5
+GAPS_EE03,Košetice,Czechia,GAPS,2011,PCB,4,7,28,28
+GAPS_EE03,Košetice,Czechia,GAPS,2011,OCP,4,11,44,27
+GAPS_EE03,Košetice,Czechia,GAPS,2013,nPFAS,4,10,40,23
+GAPS_EE03,Košetice,Czechia,GAPS,2013,PFAA,4,17,68,24
+GAPS_EE03,Košetice,Czechia,GAPS,2013,VMS,4,7,28,16
+GAPS_EE03,Košetice,Czechia,GAPS,2014,PCB,4,7,28,26
+GAPS_EE03,Košetice,Czechia,GAPS,2014,PBDE,4,14,56,23
+GAPS_EE03,Košetice,Czechia,GAPS,2014,NBFR,4,10,40,7
+GAPS_EE03,Košetice,Czechia,GAPS,2014,OPE,4,18,72,20
+GAPS_EE03,Košetice,Czechia,GAPS,2014,DP,4,4,16,0
+GAPS_EE03,Košetice,Czechia,GAPS,2014,OCP,4,11,44,25
+GAPS_EE03,Košetice,Czechia,GAPS,2015,nPFAS,1,10,10,4
+GAPS_EE03,Košetice,Czechia,GAPS,2015,PFAA,1,17,17,12
+GAPS_EE03,Košetice,Czechia,GAPS,2015,VMS,1,7,7,6
+GAPS_EE03,Košetice,Czechia,GAPS,2017,nPFAS,1,7,7,5
+GAPS_EE03,Košetice,Czechia,GAPS,2017,PFAA,1,17,17,11
+GAPS_EE03,Košetice,Czechia,GAPS,2017,VMS,1,7,7,7
+GAPS_GR01,La Palma,Cuba,GAPS,2005,PCB,4,7,28,8
+GAPS_GR01,La Palma,Cuba,GAPS,2005,PBDE,4,3,12,3
+GAPS_GR01,La Palma,Cuba,GAPS,2005,OCP,4,11,44,30
+GAPS_GR01,La Palma,Cuba,GAPS,2005,NBFR,2,10,20,9
+GAPS_GR01,La Palma,Cuba,GAPS,2005,DP,2,2,4,2
+GAPS_GR01,La Palma,Cuba,GAPS,2011,PCB,1,7,7,7
+GAPS_GR01,La Palma,Cuba,GAPS,2011,OCP,1,11,11,10
+GAPS_GR02,Veracruz,Mexico,GAPS,2005,PCB,1,7,7,4
+GAPS_GR02,Veracruz,Mexico,GAPS,2005,PBDE,1,3,3,3
+GAPS_GR02,Veracruz,Mexico,GAPS,2005,NBFR,1,10,10,0
+GAPS_GR02,Veracruz,Mexico,GAPS,2005,DP,1,2,2,0
+GAPS_GR02,Veracruz,Mexico,GAPS,2005,OCP,1,11,11,6
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2005,PCB,4,7,28,1
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2005,PBDE,4,3,12,6
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2005,OCP,4,11,44,23
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2005,NBFR,3,10,30,8
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2005,DP,3,2,6,4
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2006,PCB,3,7,21,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2006,OCP,3,11,33,15
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2007,PCB,3,7,21,11
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2007,OCP,3,11,33,9
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2009,PCB,3,7,21,1
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2009,OCP,3,11,33,8
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2011,PCB,2,7,14,3
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2011,OCP,2,11,22,11
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,PCB,2,7,14,4
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,PBDE,2,14,28,7
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,NBFR,2,10,20,1
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,OPE,2,18,36,10
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,DP,2,4,8,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,OCP,2,11,22,9
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,PBDE,1,14,14,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,NBFR,1,10,10,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,OPE,1,18,18,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,DP,1,4,4,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,nPFAS,1,10,10,2
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,PFAA,1,17,17,9
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2015,VMS,1,7,7,4
+GAPS_GR04,Arauca,Colombia,GAPS,2005,PCB,4,7,28,2
+GAPS_GR04,Arauca,Colombia,GAPS,2005,PBDE,4,3,12,8
+GAPS_GR04,Arauca,Colombia,GAPS,2005,OCP,4,11,44,29
+GAPS_GR04,Arauca,Colombia,GAPS,2005,NBFR,3,10,30,7
+GAPS_GR04,Arauca,Colombia,GAPS,2005,DP,3,2,6,4
+GAPS_GR04,Arauca,Colombia,GAPS,2006,PCB,4,7,28,3
+GAPS_GR04,Arauca,Colombia,GAPS,2006,NBFR,1,10,10,4
+GAPS_GR04,Arauca,Colombia,GAPS,2006,DP,1,2,2,1
+GAPS_GR04,Arauca,Colombia,GAPS,2006,OCP,4,11,44,21
+GAPS_GR04,Arauca,Colombia,GAPS,2007,PCB,3,7,21,12
+GAPS_GR04,Arauca,Colombia,GAPS,2007,OCP,3,11,33,15
+GAPS_GR04,Arauca,Colombia,GAPS,2009,PCB,1,7,7,0
+GAPS_GR04,Arauca,Colombia,GAPS,2009,OCP,1,11,11,4
+GAPS_GR04,Arauca,Colombia,GAPS,2011,PCB,3,7,21,16
+GAPS_GR04,Arauca,Colombia,GAPS,2011,OCP,3,11,33,14
+GAPS_GR04,Arauca,Colombia,GAPS,2017,nPFAS,1,7,7,2
+GAPS_GR04,Arauca,Colombia,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR04,Arauca,Colombia,GAPS,2017,VMS,1,7,7,6
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2005,PCB,4,7,28,0
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2005,PBDE,4,3,12,0
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2005,OCP,4,11,44,20
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2005,NBFR,3,10,30,8
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2005,DP,3,2,6,4
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2006,NBFR,1,10,10,2
+GAPS_GR06,Chungara Lake,Chile,GAPS,2005,PCB,3,7,21,0
+GAPS_GR06,Chungara Lake,Chile,GAPS,2005,PBDE,3,3,9,3
+GAPS_GR06,Chungara Lake,Chile,GAPS,2005,OCP,3,11,33,15
+GAPS_GR06,Chungara Lake,Chile,GAPS,2005,NBFR,1,10,10,0
+GAPS_GR06,Chungara Lake,Chile,GAPS,2005,DP,1,2,2,0
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,PCB,1,7,7,1
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,NBFR,1,10,10,1
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,DP,1,2,2,2
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,OCP,1,11,11,3
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2005,PCB,3,7,21,11
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2005,PBDE,3,3,9,0
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2005,NBFR,3,10,30,10
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2005,DP,3,2,6,2
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2005,OCP,3,11,33,23
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,PCB,4,7,28,17
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,NBFR,1,10,10,5
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,DP,1,2,2,1
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,OCP,4,11,44,40
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2007,PCB,3,7,21,18
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2007,OCP,3,11,33,20
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2009,PCB,3,7,21,9
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2009,OCP,3,11,33,12
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2005,PCB,2,7,14,2
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2005,PBDE,2,3,6,3
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2005,OCP,2,11,22,17
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2005,NBFR,1,10,10,5
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2005,DP,1,2,2,1
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2006,PCB,2,7,14,6
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2006,OCP,2,11,22,12
+GAPS_GR09,Coyhaique,Chile,GAPS,2005,PCB,4,7,28,4
+GAPS_GR09,Coyhaique,Chile,GAPS,2005,PBDE,3,3,9,3
+GAPS_GR09,Coyhaique,Chile,GAPS,2005,OCP,4,11,44,30
+GAPS_GR09,Coyhaique,Chile,GAPS,2005,NBFR,2,10,20,8
+GAPS_GR09,Coyhaique,Chile,GAPS,2005,DP,2,2,4,3
+GAPS_GR09,Coyhaique,Chile,GAPS,2007,PCB,4,7,28,0
+GAPS_GR09,Coyhaique,Chile,GAPS,2007,OCP,4,11,44,0
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2006,PCB,2,7,14,12
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2006,OCP,2,11,22,20
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2007,PCB,4,7,28,28
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2007,OCP,4,11,44,27
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2007,PCB,3,7,21,17
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2007,OCP,3,11,33,11
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2009,PCB,3,7,21,6
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2009,OCP,3,11,33,4
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2009,PCB,3,7,21,0
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2009,OCP,3,11,33,8
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2011,PCB,4,7,28,14
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2011,OCP,4,11,44,14
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,PCB,4,7,28,16
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,PBDE,4,14,56,15
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,NBFR,4,10,40,2
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,OPE,4,18,72,26
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,DP,4,4,16,0
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,OCP,4,11,44,21
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,nPFAS,1,7,7,5
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,PFAA,1,17,17,12
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,VMS,1,7,7,6
+GAPS_GR13,"Santa Cruz Island, Galapagos Islands",Ecuador,GAPS,2009,PCB,2,7,14,1
+GAPS_GR13,"Santa Cruz Island, Galapagos Islands",Ecuador,GAPS,2009,OCP,2,11,22,3
+GAPS_GR14,Porto Velho,Brazil,GAPS,2009,PCB,3,7,21,10
+GAPS_GR14,Porto Velho,Brazil,GAPS,2009,OCP,3,11,33,24
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2011,PCB,4,7,28,25
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2011,OCP,4,11,44,40
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,PCB,4,7,28,20
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,PBDE,4,14,56,43
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,NBFR,4,10,40,0
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,OPE,4,18,72,22
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,DP,4,4,16,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,OCP,4,11,44,41
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,PBDE,4,14,56,40
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,NBFR,4,10,40,12
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,OPE,5,18,90,37
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,DP,4,4,16,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2015,VMS,1,7,7,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2011,PCB,4,7,28,23
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2011,OCP,4,11,44,31
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,PCB,4,7,28,22
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,PBDE,4,14,56,28
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,NBFR,4,10,40,1
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,OPE,4,18,72,21
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,DP,4,4,16,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,OCP,4,11,44,36
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,PBDE,4,14,56,24
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,NBFR,4,10,40,3
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,OPE,4,18,72,15
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,DP,4,4,16,0
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2015,VMS,1,7,7,4
+GAPS_GR19,Quito,Ecuador,GAPS,2011,PCB,2,7,14,13
+GAPS_GR19,Quito,Ecuador,GAPS,2011,OCP,2,11,22,9
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2011,PCB,1,7,7,4
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2011,OCP,1,11,11,5
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,PCB,3,7,21,13
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,PBDE,3,14,42,3
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,NBFR,3,10,30,0
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,OPE,3,18,54,15
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,DP,3,4,12,3
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,OCP,3,11,33,22
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,nPFAS,1,7,7,4
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,VMS,1,7,7,6
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,PCB,3,7,21,15
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,PBDE,3,14,42,5
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,NBFR,3,10,30,1
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,OPE,3,18,54,13
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,DP,3,4,12,3
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,OCP,3,11,33,27
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,nPFAS,1,7,7,0
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,PFAA,1,17,17,14
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,VMS,1,7,7,6
+GAPS_GR22,Manizales,Colombia,GAPS,2011,PCB,4,7,28,26
+GAPS_GR22,Manizales,Colombia,GAPS,2011,OCP,4,11,44,30
+GAPS_GR22,Manizales,Colombia,GAPS,2014,PCB,4,7,28,24
+GAPS_GR22,Manizales,Colombia,GAPS,2014,PBDE,4,14,56,14
+GAPS_GR22,Manizales,Colombia,GAPS,2014,NBFR,4,10,40,2
+GAPS_GR22,Manizales,Colombia,GAPS,2014,OPE,4,18,72,14
+GAPS_GR22,Manizales,Colombia,GAPS,2014,DP,4,4,16,4
+GAPS_GR22,Manizales,Colombia,GAPS,2014,OCP,4,11,44,36
+GAPS_GR22,Manizales,Colombia,GAPS,2015,PBDE,4,14,56,13
+GAPS_GR22,Manizales,Colombia,GAPS,2015,NBFR,4,10,40,7
+GAPS_GR22,Manizales,Colombia,GAPS,2015,OPE,4,18,72,27
+GAPS_GR22,Manizales,Colombia,GAPS,2015,DP,4,4,16,4
+GAPS_GR22,Manizales,Colombia,GAPS,2015,nPFAS,1,10,10,5
+GAPS_GR22,Manizales,Colombia,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR22,Manizales,Colombia,GAPS,2015,VMS,1,7,7,5
+GAPS_GR22,Manizales,Colombia,GAPS,2017,nPFAS,1,7,7,2
+GAPS_GR22,Manizales,Colombia,GAPS,2017,PFAA,1,17,17,4
+GAPS_GR22,Manizales,Colombia,GAPS,2017,VMS,1,7,7,6
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,PCB,4,7,28,22
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,OCP,4,11,44,29
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,PBDE,3,14,42,27
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,NBFR,3,10,30,2
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,OPE,3,18,54,13
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,DP,3,4,12,0
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,PBDE,2,14,28,12
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,NBFR,2,10,20,4
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,OPE,2,18,36,13
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2015,DP,2,4,8,0
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,PFAA,1,17,17,12
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,VMS,1,7,7,7
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,PCB,4,7,28,17
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,OCP,4,11,44,24
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,PBDE,2,14,28,14
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,NBFR,2,10,20,0
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,OPE,2,18,36,8
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,DP,2,4,8,1
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,PBDE,3,14,42,6
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,NBFR,3,10,30,3
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,OPE,3,18,54,16
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,DP,3,4,12,1
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,nPFAS,1,10,10,4
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,PFAA,1,17,17,10
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,VMS,1,7,7,6
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,PCB,4,7,28,19
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,PBDE,4,14,56,7
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,NBFR,4,10,40,3
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,OPE,4,18,72,24
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,DP,4,4,16,4
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,OCP,4,11,44,31
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,VMS,1,7,7,6
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2014,PCB,2,7,14,10
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2014,OCP,2,11,22,12
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,PBDE,2,14,28,12
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,NBFR,2,10,20,6
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,OPE,2,18,36,18
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,DP,2,4,8,0
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,nPFAS,1,10,10,3
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2015,VMS,1,7,7,5
+GAPS_GR28,Concepción,Chile,GAPS,2014,PCB,4,7,28,18
+GAPS_GR28,Concepción,Chile,GAPS,2014,OCP,4,11,44,28
+GAPS_GR28,Concepción,Chile,GAPS,2014,PBDE,2,14,28,20
+GAPS_GR28,Concepción,Chile,GAPS,2014,NBFR,2,10,20,4
+GAPS_GR28,Concepción,Chile,GAPS,2014,OPE,2,18,36,11
+GAPS_GR28,Concepción,Chile,GAPS,2014,DP,2,4,8,0
+GAPS_GR28,Concepción,Chile,GAPS,2015,PBDE,4,14,56,13
+GAPS_GR28,Concepción,Chile,GAPS,2015,NBFR,4,10,40,12
+GAPS_GR28,Concepción,Chile,GAPS,2015,OPE,4,18,72,36
+GAPS_GR28,Concepción,Chile,GAPS,2015,DP,4,4,16,0
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2014,PCB,4,7,28,20
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2014,OCP,4,11,44,23
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,PBDE,4,14,56,15
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,NBFR,4,10,40,7
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,OPE,4,18,72,26
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,DP,4,4,16,1
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,nPFAS,1,10,10,1
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,PFAA,1,17,17,3
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2015,VMS,1,7,7,4
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,nPFAS,1,7,7,0
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,PFAA,1,17,17,9
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,VMS,1,7,7,5
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2005,PCB,1,7,7,3
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2005,PBDE,1,3,3,3
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2005,OCP,2,11,22,19
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2007,OCP,4,11,44,23
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,PCB,4,7,28,13
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,OCP,4,11,44,25
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,VMS,1,7,7,4
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2011,PCB,8,7,56,46
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2011,OCP,8,11,88,55
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,nPFAS,3,10,30,9
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,PFAA,3,17,51,24
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,VMS,3,7,21,10
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,PCB,2,7,14,12
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,PBDE,2,14,28,14
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,NBFR,2,10,20,0
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,OPE,2,18,36,13
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,DP,2,4,8,1
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,OCP,2,11,22,19
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,PFAA,1,17,17,12
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2015,VMS,1,7,7,3
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,nPFAS,1,7,7,2
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,PFAA,1,17,17,2
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,VMS,1,7,7,5
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2005,PCB,4,7,28,13
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2005,PBDE,4,3,12,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2005,OCP,4,11,44,35
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2005,NBFR,3,10,30,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2005,DP,3,2,6,6
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,PCB,4,7,28,9
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,DP,1,2,2,2
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,OCP,4,11,44,31
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2007,PCB,4,7,28,24
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2007,OCP,4,11,44,28
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,PCB,3,7,21,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,OCP,3,11,33,19
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,nPFAS,1,10,10,5
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,VMS,1,7,7,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2011,PCB,4,7,28,26
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2011,OCP,4,11,44,28
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,PCB,4,7,28,25
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,PBDE,4,14,56,21
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,NBFR,4,10,40,7
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,OPE,4,18,72,33
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,DP,4,4,16,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,OCP,4,11,44,36
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2015,VMS,1,7,7,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,VMS,1,7,7,7
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2005,PCB,1,7,7,4
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2005,PBDE,1,3,3,3
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2005,NBFR,2,10,20,10
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2005,OCP,1,11,11,7
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2005,DP,1,2,2,2
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2011,PCB,3,7,21,19
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2011,OCP,3,11,33,24
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,PCB,3,7,21,18
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,PBDE,3,14,42,20
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,OPE,3,18,54,7
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,DP,3,4,12,1
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,OCP,3,11,33,27
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,VMS,1,7,7,5
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,2005,PCB,1,7,7,1
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,2005,PBDE,1,3,3,0
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,2005,NBFR,1,10,10,5
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,2005,DP,1,2,2,2
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,2005,OCP,1,11,11,7
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2005,PCB,4,7,28,14
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2005,PBDE,3,3,9,0
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2005,OCP,4,11,44,31
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2005,NBFR,3,10,30,5
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2005,DP,2,2,4,2
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,PCB,3,7,21,2
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,NBFR,1,10,10,3
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,OCP,3,11,33,26
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2007,OCP,4,11,44,33
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,PCB,4,7,28,6
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,OCP,4,11,44,25
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,VMS,1,7,7,6
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2011,PCB,4,7,28,21
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2011,OCP,4,11,44,34
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,nPFAS,4,10,40,8
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,PFAA,4,17,68,19
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,PCB,4,7,28,22
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,PBDE,4,14,56,23
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,NBFR,4,10,40,5
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,OPE,4,18,72,26
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,DP,4,4,16,1
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,OCP,4,11,44,38
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,PFAA,1,17,17,9
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2005,PCB,3,7,21,8
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2005,PBDE,3,3,9,5
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2005,OCP,3,11,33,24
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2005,NBFR,2,10,20,5
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2005,DP,2,2,4,2
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,PCB,4,7,28,7
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,OCP,4,11,44,32
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,PCB,3,7,21,16
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,DP,1,2,2,0
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,OCP,3,11,33,17
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2008,DP,1,2,2,2
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,PCB,8,7,56,16
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,OCP,8,11,88,34
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,PFAA,1,17,17,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,VMS,1,7,7,7
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,PCB,8,7,56,39
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,OCP,8,11,88,34
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,nPFAS,3,10,30,10
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,PFAA,4,17,68,44
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,VMS,4,7,28,15
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,PCB,9,7,63,33
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,PBDE,4,14,56,33
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,OPE,8,18,144,29
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,DP,4,4,16,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,OCP,9,11,99,47
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2015,VMS,1,7,7,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,PFAA,1,17,17,13
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,2005,PCB,2,7,14,3
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,2005,PBDE,2,3,6,5
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,2005,NBFR,2,10,20,10
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,2005,DP,2,2,4,3
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,2005,OCP,2,11,22,17
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,2005,PCB,4,7,28,11
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,2005,PBDE,4,3,12,6
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,2005,OCP,4,11,44,30
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,2005,NBFR,3,10,30,12
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,2005,DP,3,2,6,5
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2005,PCB,4,7,28,19
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2005,PBDE,4,3,12,3
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2005,OCP,4,11,44,36
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2005,NBFR,3,10,30,13
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2005,DP,3,2,6,6
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,PCB,4,7,28,23
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,OCP,4,11,44,40
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,PCB,4,7,28,25
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,OCP,4,11,44,22
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,PCB,4,7,28,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,OCP,4,11,44,33
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,VMS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,PCB,4,7,28,25
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,DP,1,2,2,0
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,OCP,4,11,44,29
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,nPFAS,3,10,30,19
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,VMS,3,7,21,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,PCB,2,7,14,14
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,PBDE,2,14,28,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,NBFR,2,10,20,5
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,OPE,2,18,36,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,DP,2,4,8,0
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,OCP,2,11,22,13
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,nPFAS,1,10,10,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,PFAA,1,17,17,13
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2015,VMS,1,7,7,6
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE10,"Simi Valley, California",United States,GAPS,2005,PCB,4,7,28,15
+GAPS_WE10,"Simi Valley, California",United States,GAPS,2005,PBDE,4,3,12,6
+GAPS_WE10,"Simi Valley, California",United States,GAPS,2005,OCP,4,11,44,36
+GAPS_WE10,"Simi Valley, California",United States,GAPS,2005,NBFR,2,10,20,10
+GAPS_WE10,"Simi Valley, California",United States,GAPS,2005,DP,2,2,4,4
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2005,PCB,3,7,21,5
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2005,PBDE,3,3,9,3
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2005,OCP,3,11,33,23
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2005,NBFR,3,10,30,7
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2005,DP,2,2,4,2
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,PCB,1,7,7,0
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,NBFR,1,10,10,0
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,DP,1,2,2,1
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,OCP,1,11,11,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2005,PCB,4,7,28,23
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2005,PBDE,4,3,12,1
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2005,OCP,4,11,44,30
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2005,NBFR,3,10,30,10
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2005,DP,3,2,6,3
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,PCB,4,7,28,28
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,NBFR,1,10,10,5
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,DP,1,2,2,1
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,OCP,4,11,44,35
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2007,PCB,4,7,28,28
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2007,OCP,4,11,44,26
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,PCB,4,7,28,26
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,OCP,4,11,44,22
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,VMS,1,7,7,5
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2011,PCB,4,7,28,27
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2011,OCP,4,11,44,27
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,nPFAS,4,10,40,19
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,PFAA,4,17,68,29
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,VMS,4,7,28,19
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,PCB,6,7,42,42
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,OPE,6,18,108,36
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,DP,4,4,16,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,OCP,6,11,66,54
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2015,VMS,1,7,7,4
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2005,PCB,4,7,28,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2005,PBDE,4,3,12,6
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2005,OCP,4,11,44,27
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2005,NBFR,3,10,30,10
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2005,DP,3,2,6,6
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,PCB,3,7,21,7
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,DP,1,2,2,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,OCP,3,11,33,24
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2007,PCB,2,7,14,9
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2007,OCP,2,11,22,12
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,PCB,1,7,7,0
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,OCP,1,11,11,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,PFAA,1,17,17,3
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,VMS,1,7,7,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2011,PCB,4,7,28,25
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2011,OCP,4,11,44,29
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,nPFAS,2,10,20,8
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,PFAA,2,17,34,17
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,VMS,2,7,14,9
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,PCB,5,7,35,26
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,PBDE,4,14,56,17
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,OPE,5,18,90,32
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,DP,4,4,16,0
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,OCP,5,11,55,44
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,PFAA,1,17,17,13
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2015,VMS,1,7,7,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,nPFAS,1,7,7,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,PFAA,1,17,17,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,VMS,1,7,7,6
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2005,PCB,4,7,28,17
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2005,OCP,4,11,44,31
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2005,PBDE,3,3,9,3
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2005,NBFR,3,10,30,13
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2005,DP,3,2,6,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2006,PCB,3,7,21,16
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2006,OCP,3,11,33,27
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,PCB,4,7,28,25
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,DP,1,2,2,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,OCP,4,11,44,26
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2008,DP,1,2,2,2
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,PCB,4,7,28,20
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,OCP,4,11,44,30
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,VMS,1,7,7,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,PCB,4,7,28,27
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,DP,1,2,2,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,OCP,4,11,44,31
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,nPFAS,3,10,30,5
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,VMS,3,7,21,13
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,PCB,4,7,28,23
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,PBDE,4,14,56,26
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,NBFR,4,10,40,8
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,OPE,4,18,72,13
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,DP,4,4,16,2
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,OCP,4,11,44,35
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,PFAA,1,17,17,5
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2015,VMS,1,7,7,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,VMS,1,7,7,5
+GAPS_WE15,Hollola,Finland,GAPS,2005,PCB,2,7,14,6
+GAPS_WE15,Hollola,Finland,GAPS,2005,PBDE,2,3,6,0
+GAPS_WE15,Hollola,Finland,GAPS,2005,NBFR,3,10,30,6
+GAPS_WE15,Hollola,Finland,GAPS,2005,DP,2,2,4,1
+GAPS_WE15,Hollola,Finland,GAPS,2005,OCP,2,11,22,13
+GAPS_WE16,Malin Head,Ireland,GAPS,2005,PCB,4,7,28,14
+GAPS_WE16,Malin Head,Ireland,GAPS,2005,PBDE,4,3,12,2
+GAPS_WE16,Malin Head,Ireland,GAPS,2005,OCP,4,11,44,35
+GAPS_WE16,Malin Head,Ireland,GAPS,2005,NBFR,3,10,30,16
+GAPS_WE16,Malin Head,Ireland,GAPS,2005,DP,3,2,6,5
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,PCB,4,7,28,11
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,DP,1,2,2,2
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,OCP,4,11,44,35
+GAPS_WE16,Malin Head,Ireland,GAPS,2007,PCB,4,7,28,23
+GAPS_WE16,Malin Head,Ireland,GAPS,2007,OCP,4,11,44,13
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,PCB,3,7,21,11
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,OCP,3,11,33,23
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,PFAA,1,17,17,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,VMS,1,7,7,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2011,PCB,3,7,21,19
+GAPS_WE16,Malin Head,Ireland,GAPS,2011,OCP,3,11,33,26
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,nPFAS,4,10,40,18
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,PFAA,4,17,68,16
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,VMS,4,7,28,17
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,PCB,5,7,35,30
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,PBDE,3,14,42,8
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,OPE,4,18,72,18
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,DP,3,4,12,0
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,OCP,5,11,55,40
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE16,Malin Head,Ireland,GAPS,2015,VMS,1,7,7,5
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,PFAA,1,17,17,9
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,VMS,1,7,7,7
+GAPS_WE17,Paris,France,GAPS,2005,PCB,3,7,21,18
+GAPS_WE17,Paris,France,GAPS,2005,PBDE,3,3,9,5
+GAPS_WE17,Paris,France,GAPS,2005,NBFR,3,10,30,15
+GAPS_WE17,Paris,France,GAPS,2005,DP,3,2,6,6
+GAPS_WE17,Paris,France,GAPS,2005,OCP,3,11,33,31
+GAPS_WE17,Paris,France,GAPS,2006,PCB,3,7,21,21
+GAPS_WE17,Paris,France,GAPS,2006,OCP,3,11,33,33
+GAPS_WE17,Paris,France,GAPS,2007,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2007,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2007,OCP,4,11,44,31
+GAPS_WE17,Paris,France,GAPS,2008,DP,1,2,2,2
+GAPS_WE17,Paris,France,GAPS,2009,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2009,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2009,OCP,4,11,44,34
+GAPS_WE17,Paris,France,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE17,Paris,France,GAPS,2009,PFAA,1,17,17,7
+GAPS_WE17,Paris,France,GAPS,2009,VMS,1,7,7,7
+GAPS_WE17,Paris,France,GAPS,2011,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2011,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2011,OCP,4,11,44,41
+GAPS_WE17,Paris,France,GAPS,2014,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2014,PBDE,4,14,56,17
+GAPS_WE17,Paris,France,GAPS,2014,NBFR,4,10,40,19
+GAPS_WE17,Paris,France,GAPS,2014,OPE,4,18,72,44
+GAPS_WE17,Paris,France,GAPS,2014,DP,4,4,16,4
+GAPS_WE17,Paris,France,GAPS,2014,OCP,4,11,44,42
+GAPS_WE17,Paris,France,GAPS,2015,nPFAS,1,10,10,7
+GAPS_WE17,Paris,France,GAPS,2015,PFAA,1,17,17,14
+GAPS_WE17,Paris,France,GAPS,2015,VMS,1,7,7,6
+GAPS_WE17,Paris,France,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE17,Paris,France,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE17,Paris,France,GAPS,2017,VMS,1,7,7,7
+GAPS_WE18,Barcelona,Spain,GAPS,2005,PCB,4,7,28,14
+GAPS_WE18,Barcelona,Spain,GAPS,2005,PBDE,4,3,12,4
+GAPS_WE18,Barcelona,Spain,GAPS,2005,OCP,4,11,44,26
+GAPS_WE18,Barcelona,Spain,GAPS,2005,NBFR,3,10,30,7
+GAPS_WE18,Barcelona,Spain,GAPS,2005,DP,3,2,6,4
+GAPS_WE18,Barcelona,Spain,GAPS,2006,PCB,1,7,7,5
+GAPS_WE18,Barcelona,Spain,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE18,Barcelona,Spain,GAPS,2006,DP,1,2,2,2
+GAPS_WE18,Barcelona,Spain,GAPS,2006,OCP,1,11,11,10
+GAPS_WE19,Izmir,Türkiye,GAPS,2005,PCB,4,7,28,19
+GAPS_WE19,Izmir,Türkiye,GAPS,2005,OCP,4,11,44,36
+GAPS_WE19,Izmir,Türkiye,GAPS,2005,PBDE,3,3,9,1
+GAPS_WE19,Izmir,Türkiye,GAPS,2005,NBFR,3,10,30,15
+GAPS_WE19,Izmir,Türkiye,GAPS,2005,DP,3,2,6,6
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,PCB,4,7,28,25
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,DP,1,2,2,2
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,OCP,4,11,44,38
+GAPS_WE20,Isola Marettimo,Italy,GAPS,2005,PCB,4,7,28,17
+GAPS_WE20,Isola Marettimo,Italy,GAPS,2005,PBDE,4,3,12,3
+GAPS_WE20,Isola Marettimo,Italy,GAPS,2005,OCP,4,11,44,30
+GAPS_WE20,Isola Marettimo,Italy,GAPS,2005,NBFR,2,10,20,2
+GAPS_WE20,Isola Marettimo,Italy,GAPS,2005,DP,2,2,4,2
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2005,PCB,4,7,27,13
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2005,PBDE,4,3,12,1
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2005,OCP,4,11,44,36
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2005,NBFR,3,10,30,12
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2005,DP,3,2,6,4
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,PCB,4,7,28,23
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,DP,1,2,2,1
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,OCP,4,11,44,39
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2007,PCB,4,7,28,28
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2007,OCP,4,11,44,23
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2009,PCB,4,7,28,20
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2009,OCP,4,11,44,21
+GAPS_WE22,Darwin,Australia,GAPS,2005,PCB,4,6,24,3
+GAPS_WE22,Darwin,Australia,GAPS,2005,PBDE,4,3,12,0
+GAPS_WE22,Darwin,Australia,GAPS,2005,OCP,4,11,44,26
+GAPS_WE22,Darwin,Australia,GAPS,2005,NBFR,3,10,30,12
+GAPS_WE22,Darwin,Australia,GAPS,2005,DP,3,2,6,5
+GAPS_WE22,Darwin,Australia,GAPS,2006,PCB,3,7,21,8
+GAPS_WE22,Darwin,Australia,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE22,Darwin,Australia,GAPS,2006,DP,1,2,2,1
+GAPS_WE22,Darwin,Australia,GAPS,2006,OCP,3,11,33,25
+GAPS_WE22,Darwin,Australia,GAPS,2007,PCB,4,7,28,21
+GAPS_WE22,Darwin,Australia,GAPS,2007,OCP,4,11,44,21
+GAPS_WE22,Darwin,Australia,GAPS,2009,PCB,4,7,28,2
+GAPS_WE22,Darwin,Australia,GAPS,2009,OCP,4,11,44,25
+GAPS_WE22,Darwin,Australia,GAPS,2011,PCB,4,7,28,26
+GAPS_WE22,Darwin,Australia,GAPS,2011,OCP,4,11,44,31
+GAPS_WE22,Darwin,Australia,GAPS,2014,PCB,4,7,28,19
+GAPS_WE22,Darwin,Australia,GAPS,2014,PBDE,3,14,42,28
+GAPS_WE22,Darwin,Australia,GAPS,2014,NBFR,3,10,30,4
+GAPS_WE22,Darwin,Australia,GAPS,2014,OPE,3,18,54,22
+GAPS_WE22,Darwin,Australia,GAPS,2014,DP,3,4,12,0
+GAPS_WE22,Darwin,Australia,GAPS,2014,OCP,4,11,44,29
+GAPS_WE22,Darwin,Australia,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE22,Darwin,Australia,GAPS,2017,PFAA,1,17,17,8
+GAPS_WE22,Darwin,Australia,GAPS,2017,VMS,1,7,7,7
+GAPS_WE23,Cape Grim,Australia,GAPS,2005,PCB,4,6,24,4
+GAPS_WE23,Cape Grim,Australia,GAPS,2005,PBDE,4,3,12,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2005,OCP,4,11,44,21
+GAPS_WE23,Cape Grim,Australia,GAPS,2005,NBFR,3,10,30,9
+GAPS_WE23,Cape Grim,Australia,GAPS,2005,DP,3,2,6,6
+GAPS_WE23,Cape Grim,Australia,GAPS,2006,PCB,3,7,21,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2006,OCP,3,11,33,21
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,PCB,2,7,14,8
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,DP,1,2,2,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,OCP,2,11,22,14
+GAPS_WE23,Cape Grim,Australia,GAPS,2008,DP,1,2,2,2
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,PCB,4,7,28,3
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,OCP,4,11,44,14
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,VMS,1,7,7,2
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,PCB,4,7,28,19
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,DP,1,2,2,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,OCP,4,11,44,25
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,nPFAS,4,10,40,9
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,PFAA,3,17,51,13
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,VMS,4,7,28,16
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,PCB,4,7,28,19
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,OPE,4,18,72,28
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,DP,4,4,16,4
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,OCP,4,11,44,34
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,nPFAS,1,10,10,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,PFAA,1,17,17,6
+GAPS_WE23,Cape Grim,Australia,GAPS,2015,VMS,1,7,7,4
+GAPS_WE24,Mario Zucchelli Station (Italy),Antarctica,GAPS,2005,PCB,1,6,6,0
+GAPS_WE24,Mario Zucchelli Station (Italy),Antarctica,GAPS,2005,PBDE,1,3,3,0
+GAPS_WE24,Mario Zucchelli Station (Italy),Antarctica,GAPS,2005,OCP,1,11,11,0
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2007,PCB,2,7,14,11
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2007,OCP,2,11,22,14
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2008,DP,1,2,2,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,PCB,4,7,28,7
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,DP,1,2,2,1
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,OCP,4,11,44,21
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,VMS,1,7,7,5
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,PCB,3,7,21,18
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,OCP,3,11,33,16
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,nPFAS,3,10,30,9
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,VMS,3,7,21,13
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,PCB,2,7,14,6
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,PBDE,2,14,28,14
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,NBFR,2,10,20,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,OPE,2,18,36,9
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,DP,2,4,8,0
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,OCP,2,11,22,10
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2015,VMS,1,7,7,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,PFAA,1,17,17,10
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2006,PCB,2,7,14,2
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2006,OCP,2,11,22,12
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2007,PCB,2,7,14,8
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2007,OCP,2,11,22,9
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2009,PCB,4,7,28,1
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2009,OCP,4,11,44,6
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2011,PCB,4,7,28,10
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2011,OCP,4,11,44,7
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,PCB,3,7,21,5
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,PBDE,3,14,42,24
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,NBFR,3,10,30,3
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,OPE,3,18,54,19
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,DP,3,4,12,0
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,OCP,3,11,33,10
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,0
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,0
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,30
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,1
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,24
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2007,PCB,4,7,28,20
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2007,OCP,4,11,44,23
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2009,PCB,4,7,28,0
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2009,OCP,4,11,44,7
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2011,PCB,4,7,28,18
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2011,OCP,4,11,44,18
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,1
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,29
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,PCB,4,7,28,7
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,NBFR,1,10,10,5
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,DP,1,2,2,2
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,OCP,4,11,44,33
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2007,PCB,4,7,28,24
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2007,OCP,4,11,44,25
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2009,PCB,4,7,28,11
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2009,OCP,4,11,44,17
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2011,PCB,4,7,28,25
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2011,OCP,4,11,44,19
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,PCB,4,7,28,21
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,OPE,4,18,72,12
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,DP,4,4,16,0
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,OCP,4,11,44,36
+GAPS_WE31,North Island,New Zealand,GAPS,2006,PCB,1,7,7,0
+GAPS_WE31,North Island,New Zealand,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE31,North Island,New Zealand,GAPS,2006,DP,1,2,2,1
+GAPS_WE31,North Island,New Zealand,GAPS,2006,OCP,1,11,11,8
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,DP,1,2,2,1
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,OCP,4,11,44,34
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,PCB,4,7,28,5
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,DP,1,2,2,1
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,OCP,4,11,44,13
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,VMS,1,7,7,4
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,PCB,5,7,35,24
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,DP,1,2,2,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,OCP,5,11,55,30
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,nPFAS,4,10,40,17
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,PFAA,4,17,68,29
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,PCB,4,7,28,17
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,PBDE,4,14,56,9
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,OPE,4,18,72,21
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,OCP,4,11,44,29
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,nPFAS,1,10,10,4
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,PFAA,1,17,17,14
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2023,CP,1,1,1,1
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2007,PCB,3,7,21,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2007,OCP,3,11,33,20
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,PCB,3,7,21,3
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,OCP,3,11,33,8
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,VMS,1,7,7,5
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2011,PCB,5,7,35,23
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2011,OCP,5,11,55,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,nPFAS,4,10,40,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,PFAA,4,17,68,20
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,VMS,4,7,28,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,PCB,4,7,28,10
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,PBDE,4,14,56,28
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,OPE,4,18,72,15
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,DP,4,4,16,2
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,OCP,4,11,44,16
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,3
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,VMS,1,7,7,4
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,DP,1,2,2,2
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,OCP,4,11,44,31
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2008,DP,1,2,2,2
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,PCB,4,7,28,19
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,OCP,4,11,44,35
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,VMS,1,7,7,0
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,PCB,4,7,28,28
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,OCP,4,11,44,33
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,nPFAS,4,10,40,15
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,PFAA,4,17,68,42
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,PCB,3,7,21,21
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,PBDE,3,14,42,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,OPE,3,18,54,16
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,DP,3,4,12,0
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,OCP,3,11,33,25
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,nPFAS,1,10,10,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2015,VMS,1,7,7,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2007,OCP,4,11,44,37
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,PCB,4,7,28,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,OCP,4,11,44,23
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,VMS,1,7,7,7
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2011,PCB,4,7,28,25
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2011,OCP,4,11,44,28
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,nPFAS,3,10,30,7
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,PFAA,3,17,51,26
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,VMS,3,7,21,14
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,PCB,4,7,28,19
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,PBDE,4,14,56,14
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,OPE,4,18,72,19
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,OCP,4,11,44,30
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,nPFAS,1,10,10,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,PFAA,1,17,17,11
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2015,VMS,1,7,7,2
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,VMS,1,7,7,6
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2007,PCB,3,7,21,18
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2007,OCP,3,11,33,21
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,PCB,4,7,28,14
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,OCP,4,11,44,36
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2011,PCB,1,7,7,7
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2011,OCP,1,11,11,11
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,nPFAS,4,10,40,21
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,PFAA,4,17,68,36
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,VMS,4,7,28,18
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,PCB,4,7,28,27
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,PBDE,4,14,56,29
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,OPE,4,18,72,31
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,OCP,4,11,44,40
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,PFAA,1,17,17,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,VMS,1,7,7,7
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2007,PCB,3,7,21,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2007,OCP,3,11,33,21
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,PCB,4,7,28,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,OCP,4,11,44,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2011,PCB,4,7,28,15
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2011,OCP,4,11,44,16
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,nPFAS,4,10,40,7
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,PFAA,4,17,68,31
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,VMS,4,7,28,17
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,PCB,4,7,28,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,PBDE,4,14,56,14
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,OPE,4,18,72,18
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,OCP,4,11,44,19
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,nPFAS,1,10,10,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,PFAA,1,17,17,6
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2015,VMS,1,7,7,3
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,PFAA,1,17,17,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,VMS,1,7,7,5
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2007,OCP,3,11,33,15
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2009,PCB,4,7,28,11
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2009,OCP,4,11,44,3
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2011,PCB,5,7,35,30
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2011,OCP,5,11,55,5
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,PCB,4,7,28,21
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,PBDE,4,14,56,18
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,NBFR,4,10,40,8
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,OPE,4,18,72,21
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,DP,4,4,16,0
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,OCP,4,11,44,22
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,VMS,1,7,7,2
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2009,PCB,4,7,28,7
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2009,OCP,4,11,44,8
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2011,PCB,4,7,28,18
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2011,OCP,4,11,44,11
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,PCB,4,7,28,11
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,OPE,4,18,72,15
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,DP,4,4,16,0
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,OCP,4,11,44,22
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,VMS,1,7,7,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,PCB,3,7,21,16
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,OCP,3,11,33,30
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2011,PCB,1,7,7,7
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2011,OCP,1,11,11,11
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,nPFAS,1,10,10,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,PFAA,1,17,17,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,VMS,1,7,7,4
+GAPS_WE41,Doñana National Park,Spain,GAPS,2009,PCB,4,7,28,15
+GAPS_WE41,Doñana National Park,Spain,GAPS,2009,OCP,4,11,44,19
+GAPS_WE41,Doñana National Park,Spain,GAPS,2011,PCB,4,7,28,17
+GAPS_WE41,Doñana National Park,Spain,GAPS,2011,OCP,4,11,44,18
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,PCB,4,7,28,23
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,PBDE,4,14,56,3
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,OPE,4,18,72,25
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,DP,4,4,16,2
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,OCP,4,11,44,31
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,nPFAS,1,7,7,1
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,PFAA,1,17,17,7
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,VMS,1,7,7,6
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2009,PCB,2,7,14,9
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2009,OCP,2,11,22,12
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2011,PCB,4,7,28,23
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2011,OCP,4,11,44,24
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,PCB,1,7,7,7
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,PBDE,1,14,14,3
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,NBFR,1,10,10,0
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,OPE,1,18,18,4
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,DP,1,4,4,0
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,OCP,1,11,11,8
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,VMS,1,7,7,5
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2009,PCB,2,7,14,1
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2009,OCP,2,11,22,13
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,nPFAS,1,10,10,2
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,PFAA,1,17,17,5
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,VMS,1,7,7,4
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,nPFAS,1,10,10,2
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,PFAA,1,17,17,10
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2015,VMS,1,7,7,4
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,PCB,4,7,28,27
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,PBDE,4,14,56,7
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,NBFR,4,10,40,5
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,OPE,4,18,72,29
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,DP,4,4,16,2
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,OCP,4,11,44,37
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,PFAA,1,17,17,13
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,VMS,1,7,7,6
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,PCB,4,7,28,23
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,PBDE,4,14,56,16
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,OPE,4,18,72,24
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,OCP,4,11,44,37
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,PCB,4,7,28,22
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,PBDE,4,14,56,7
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,OPE,4,18,72,24
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,OCP,4,11,44,36
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,PFAA,1,17,17,8
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,PCB,4,7,28,26
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,PBDE,4,14,56,24
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,NBFR,4,10,40,9
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,OPE,4,18,72,36
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,DP,4,4,16,3
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,OCP,4,11,44,42
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,7
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2023,CP,1,1,1,1
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,OPE,1,18,18,8
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,PBDE,1,9,9,6
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,NBFR,1,7,7,6
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,PBDE,1,9,9,7
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,OPE,1,18,18,9
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,NBFR,1,7,7,6
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,OPE,1,18,18,8
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS06,Seoul,South Korea,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS07,Riyadh,Saudi Arabia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,OPE,1,18,18,9
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF04,Pretoria,South Africa,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,PBDE,1,9,9,6
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2023,CP,1,2,2,2

@@ -1,0 +1,77 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,OPE,1,18,18,8
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,PBDE,1,9,9,6
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,NBFR,1,7,7,6
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,PBDE,1,9,9,7
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,OPE,1,18,18,9
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,NBFR,1,7,7,6
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,OPE,1,18,18,8
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,PBDE,1,9,9,9
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2018,DP,1,4,4,4
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,PBDE,1,9,9,8
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,OPE,1,18,18,9
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2018,DP,1,4,4,3
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,PBDE,1,9,9,6
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,NBFR,1,7,7,7
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,OPE,1,18,18,10
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2018,DP,1,4,4,3

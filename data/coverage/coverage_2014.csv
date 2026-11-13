@@ -1,0 +1,293 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF04,De Aar,South Africa,GAPS,2014,PCB,4,7,28,17
+GAPS_AF04,De Aar,South Africa,GAPS,2014,PBDE,4,14,56,11
+GAPS_AF04,De Aar,South Africa,GAPS,2014,NBFR,4,10,40,6
+GAPS_AF04,De Aar,South Africa,GAPS,2014,OPE,3,18,54,14
+GAPS_AF04,De Aar,South Africa,GAPS,2014,DP,4,4,16,1
+GAPS_AF04,De Aar,South Africa,GAPS,2014,OCP,4,11,44,22
+GAPS_AS11,Manila,Philippines,GAPS,2014,PCB,4,7,28,26
+GAPS_AS11,Manila,Philippines,GAPS,2014,PBDE,4,14,56,37
+GAPS_AS11,Manila,Philippines,GAPS,2014,NBFR,4,10,40,11
+GAPS_AS11,Manila,Philippines,GAPS,2014,OPE,4,18,72,32
+GAPS_AS11,Manila,Philippines,GAPS,2014,DP,4,4,16,0
+GAPS_AS11,Manila,Philippines,GAPS,2014,OCP,4,11,44,38
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,PCB,4,7,28,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,PBDE,4,14,56,10
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,NBFR,4,10,40,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,OPE,4,18,72,18
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,DP,4,4,16,1
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2014,OCP,4,11,44,15
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,PCB,5,7,35,13
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,PBDE,4,14,56,23
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,NBFR,4,10,40,7
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,OPE,5,18,90,17
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,DP,4,4,16,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2014,OCP,5,11,55,17
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,PCB,4,7,28,18
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,PBDE,4,14,56,7
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,NBFR,4,10,40,6
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,OPE,4,18,72,26
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,DP,4,4,16,3
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2014,OCP,4,11,44,25
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,PCB,4,7,28,25
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,PBDE,4,14,56,28
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,NBFR,4,10,40,0
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,OPE,4,18,72,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,DP,4,4,16,0
+GAPS_AS21,Abdaly,Kuwait,GAPS,2014,OCP,4,11,44,20
+GAPS_EE03,Košetice,Czechia,GAPS,2014,PCB,4,7,28,26
+GAPS_EE03,Košetice,Czechia,GAPS,2014,PBDE,4,14,56,23
+GAPS_EE03,Košetice,Czechia,GAPS,2014,NBFR,4,10,40,7
+GAPS_EE03,Košetice,Czechia,GAPS,2014,OPE,4,18,72,20
+GAPS_EE03,Košetice,Czechia,GAPS,2014,DP,4,4,16,0
+GAPS_EE03,Košetice,Czechia,GAPS,2014,OCP,4,11,44,25
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,PCB,2,7,14,4
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,PBDE,2,14,28,7
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,NBFR,2,10,20,1
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,OPE,2,18,36,10
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,DP,2,4,8,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2014,OCP,2,11,22,9
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,PCB,4,7,28,16
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,PBDE,4,14,56,15
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,NBFR,4,10,40,2
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,OPE,4,18,72,26
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,DP,4,4,16,0
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2014,OCP,4,11,44,21
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,PCB,4,7,28,20
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,PBDE,4,14,56,43
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,NBFR,4,10,40,0
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,OPE,4,18,72,22
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,DP,4,4,16,4
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2014,OCP,4,11,44,41
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,PCB,4,7,28,22
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,PBDE,4,14,56,28
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,NBFR,4,10,40,1
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,OPE,4,18,72,21
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,DP,4,4,16,4
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2014,OCP,4,11,44,36
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,PCB,3,7,21,13
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,PBDE,3,14,42,3
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,NBFR,3,10,30,0
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,OPE,3,18,54,15
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,DP,3,4,12,3
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2014,OCP,3,11,33,22
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,PCB,3,7,21,15
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,PBDE,3,14,42,5
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,NBFR,3,10,30,1
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,OPE,3,18,54,13
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,DP,3,4,12,3
+GAPS_GR21,Mendoza,Argentina,GAPS,2014,OCP,3,11,33,27
+GAPS_GR22,Manizales,Colombia,GAPS,2014,PCB,4,7,28,24
+GAPS_GR22,Manizales,Colombia,GAPS,2014,PBDE,4,14,56,14
+GAPS_GR22,Manizales,Colombia,GAPS,2014,NBFR,4,10,40,2
+GAPS_GR22,Manizales,Colombia,GAPS,2014,OPE,4,18,72,14
+GAPS_GR22,Manizales,Colombia,GAPS,2014,DP,4,4,16,4
+GAPS_GR22,Manizales,Colombia,GAPS,2014,OCP,4,11,44,36
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,PCB,4,7,28,22
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,OCP,4,11,44,29
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,PBDE,3,14,42,27
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,NBFR,3,10,30,2
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,OPE,3,18,54,13
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2014,DP,3,4,12,0
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,PCB,4,7,28,17
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,OCP,4,11,44,24
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,PBDE,2,14,28,14
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,NBFR,2,10,20,0
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,OPE,2,18,36,8
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2014,DP,2,4,8,1
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,PCB,4,7,28,19
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,PBDE,4,14,56,7
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,NBFR,4,10,40,3
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,OPE,4,18,72,24
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,DP,4,4,16,4
+GAPS_GR25,Itatiaia,Brazil,GAPS,2014,OCP,4,11,44,31
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2014,PCB,2,7,14,10
+GAPS_GR27,Río Gallegos,Argentina,GAPS,2014,OCP,2,11,22,12
+GAPS_GR28,Concepción,Chile,GAPS,2014,PCB,4,7,28,18
+GAPS_GR28,Concepción,Chile,GAPS,2014,OCP,4,11,44,28
+GAPS_GR28,Concepción,Chile,GAPS,2014,PBDE,2,14,28,20
+GAPS_GR28,Concepción,Chile,GAPS,2014,NBFR,2,10,20,4
+GAPS_GR28,Concepción,Chile,GAPS,2014,OPE,2,18,36,11
+GAPS_GR28,Concepción,Chile,GAPS,2014,DP,2,4,8,0
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2014,PCB,4,7,28,20
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2014,OCP,4,11,44,23
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,PCB,2,7,14,12
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,PBDE,2,14,28,14
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,NBFR,2,10,20,0
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,OPE,2,18,36,13
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,DP,2,4,8,1
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2014,OCP,2,11,22,19
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,PCB,4,7,28,25
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,PBDE,4,14,56,21
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,NBFR,4,10,40,7
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,OPE,4,18,72,33
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,DP,4,4,16,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2014,OCP,4,11,44,36
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,PCB,3,7,21,18
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,PBDE,3,14,42,20
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,OPE,3,18,54,7
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,DP,3,4,12,1
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2014,OCP,3,11,33,27
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,PCB,4,7,28,22
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,PBDE,4,14,56,23
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,NBFR,4,10,40,5
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,OPE,4,18,72,26
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,DP,4,4,16,1
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2014,OCP,4,11,44,38
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,PCB,9,7,63,33
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,PBDE,4,14,56,33
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,OPE,8,18,144,29
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,DP,4,4,16,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2014,OCP,9,11,99,47
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,PCB,2,7,14,14
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,PBDE,2,14,28,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,NBFR,2,10,20,5
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,OPE,2,18,36,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,DP,2,4,8,0
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2014,OCP,2,11,22,13
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,PCB,6,7,42,42
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,OPE,6,18,108,36
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,DP,4,4,16,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2014,OCP,6,11,66,54
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,PCB,5,7,35,26
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,PBDE,4,14,56,17
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,OPE,5,18,90,32
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,DP,4,4,16,0
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2014,OCP,5,11,55,44
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,PCB,4,7,28,23
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,PBDE,4,14,56,26
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,NBFR,4,10,40,8
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,OPE,4,18,72,13
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,DP,4,4,16,2
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2014,OCP,4,11,44,35
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,PCB,5,7,35,30
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,PBDE,3,14,42,8
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,OPE,4,18,72,18
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,DP,3,4,12,0
+GAPS_WE16,Malin Head,Ireland,GAPS,2014,OCP,5,11,55,40
+GAPS_WE17,Paris,France,GAPS,2014,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2014,PBDE,4,14,56,17
+GAPS_WE17,Paris,France,GAPS,2014,NBFR,4,10,40,19
+GAPS_WE17,Paris,France,GAPS,2014,OPE,4,18,72,44
+GAPS_WE17,Paris,France,GAPS,2014,DP,4,4,16,4
+GAPS_WE17,Paris,France,GAPS,2014,OCP,4,11,44,42
+GAPS_WE22,Darwin,Australia,GAPS,2014,PCB,4,7,28,19
+GAPS_WE22,Darwin,Australia,GAPS,2014,PBDE,3,14,42,28
+GAPS_WE22,Darwin,Australia,GAPS,2014,NBFR,3,10,30,4
+GAPS_WE22,Darwin,Australia,GAPS,2014,OPE,3,18,54,22
+GAPS_WE22,Darwin,Australia,GAPS,2014,DP,3,4,12,0
+GAPS_WE22,Darwin,Australia,GAPS,2014,OCP,4,11,44,29
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,PCB,4,7,28,19
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,OPE,4,18,72,28
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,DP,4,4,16,4
+GAPS_WE23,Cape Grim,Australia,GAPS,2014,OCP,4,11,44,34
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,PCB,2,7,14,6
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,PBDE,2,14,28,14
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,NBFR,2,10,20,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,OPE,2,18,36,9
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,DP,2,4,8,0
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2014,OCP,2,11,22,10
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,PCB,3,7,21,5
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,PBDE,3,14,42,24
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,NBFR,3,10,30,3
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,OPE,3,18,54,19
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,DP,3,4,12,0
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2014,OCP,3,11,33,10
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,PCB,4,7,28,21
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,OPE,4,18,72,12
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,DP,4,4,16,0
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2014,OCP,4,11,44,36
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,PCB,4,7,28,17
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,PBDE,4,14,56,9
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,OPE,4,18,72,21
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2014,OCP,4,11,44,29
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,PCB,4,7,28,10
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,PBDE,4,14,56,28
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,OPE,4,18,72,15
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,DP,4,4,16,2
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2014,OCP,4,11,44,16
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,PCB,3,7,21,21
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,PBDE,3,14,42,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,NBFR,3,10,30,1
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,OPE,3,18,54,16
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,DP,3,4,12,0
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2014,OCP,3,11,33,25
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,PCB,4,7,28,19
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,PBDE,4,14,56,14
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,NBFR,4,10,40,2
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,OPE,4,18,72,19
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2014,OCP,4,11,44,30
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,PCB,4,7,28,27
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,PBDE,4,14,56,29
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,OPE,4,18,72,31
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2014,OCP,4,11,44,40
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,PCB,4,7,28,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,PBDE,4,14,56,14
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,NBFR,4,10,40,3
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,OPE,4,18,72,18
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,DP,4,4,16,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2014,OCP,4,11,44,19
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,PCB,4,7,28,21
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,PBDE,4,14,56,18
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,NBFR,4,10,40,8
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,OPE,4,18,72,21
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,DP,4,4,16,0
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2014,OCP,4,11,44,22
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,PCB,4,7,28,11
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,PBDE,4,14,56,11
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,OPE,4,18,72,15
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,DP,4,4,16,0
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2014,OCP,4,11,44,22
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,PCB,4,7,28,23
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,PBDE,4,14,56,3
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,OPE,4,18,72,25
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,DP,4,4,16,2
+GAPS_WE41,Doñana National Park,Spain,GAPS,2014,OCP,4,11,44,31
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,PCB,1,7,7,7
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,PBDE,1,14,14,3
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,NBFR,1,10,10,0
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,OPE,1,18,18,4
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,DP,1,4,4,0
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2014,OCP,1,11,11,8
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,PCB,4,7,28,27
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,PBDE,4,14,56,7
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,NBFR,4,10,40,5
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,OPE,4,18,72,29
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,DP,4,4,16,2
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2014,OCP,4,11,44,37
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,PCB,4,7,28,23
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,PBDE,4,14,56,16
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,NBFR,4,10,40,4
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,OPE,4,18,72,24
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,2014,OCP,4,11,44,37
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,PCB,4,7,28,22
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,PBDE,4,14,56,7
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,NBFR,4,10,40,1
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,OPE,4,18,72,24
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,DP,4,4,16,0
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2014,OCP,4,11,44,36
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,PCB,4,7,28,26
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,PBDE,4,14,56,24
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,NBFR,4,10,40,9
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,OPE,4,18,72,36
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,DP,4,4,16,3
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2014,OCP,4,11,44,42

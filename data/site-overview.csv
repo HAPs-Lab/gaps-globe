@@ -1,0 +1,133 @@
+﻿Site code (ECCC),Site name,Country,Network,Site type,Status,Campaigns (samples),Samples,Families measured
+GAPS_AF01,Abono,Ghana,GAPS,Rural,Formerly active,2005 (4); 2006 (4),8,PCB; PBDE; NBFR; DP; OCP
+GAPS_AF02,Lilongwe,Malawi,GAPS,Background,Formerly active,2005 (1),1,PCB; PBDE; NBFR; DP; OCP
+GAPS_AF03,Kalahari,South Africa,GAPS,Background,Formerly active,2005 (4); 2006 (3); 2007 (3),10,PCB; PBDE; NBFR; DP; OCP
+GAPS_AF04,De Aar,South Africa,GAPS,Background,Active,2005 (3); 2006 (4); 2007 (4); 2009 (4); 2011 (4); 2014 (4),23,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_AF05,Cairo,Egypt,GAPS,Rural,Formerly active,2006 (2),2,PCB; NBFR; DP; OCP
+GAPS_AF07,Mt. Kenya,Kenya,GAPS,Background,Active,2009 (4),4,PCB; OCP
+GAPS_AF08,Vanderbijlpark,South Africa,GAPS,Background,Formerly active,2009 (4),4,PCB; OCP
+GAPS_AF09,Vredefort Dome,South Africa,GAPS,Background,Formerly active,2011 (4),4,PCB; OCP
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,Urban,Active,2017 (1),1,nPFAS; PFAA; VMS
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,Urban,Formerly active,2005 (2); 2006 (2); 2007 (1),5,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS02,"Dalian, Liaoning",China,GAPS,Background,Formerly active,2005 (2),2,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS03,Seoul,South Korea,GAPS,Urban,Formerly active,2005 (2); 2006 (1); 2007 (4),7,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS04,Pohang,South Korea,GAPS,Rural,Formerly active,2005 (1); 2006 (1); 2007 (4),6,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS05,Kumamoto,Japan,GAPS,Background,Formerly active,2005 (2),2,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS06,"Mt. Qingcheng, Sichuan",China,GAPS,Rural,Formerly active,2005 (2),2,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS07,"Chengdu, Sichuan",China,GAPS,Urban,Formerly active,2005 (2),2,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS08,Kuwait City,Kuwait,GAPS,Urban,Formerly active,2005 (4); 2006 (4),8,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS09,East Arjun Nagar,India,GAPS,Agricultural,Formerly active,2005 (3); 2006 (4); 2007 (4),11,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS10,Bawana,India,GAPS,Agricultural,Formerly active,2005 (3); 2006 (4); 2007 (4),11,PCB; PBDE; NBFR; DP; OCP
+GAPS_AS11,Manila,Philippines,GAPS,Urban,Active,2005 (4); 2006 (4); 2011 (4); 2014 (4); 2017 (1),17,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_AS12,Danum Valley,Malaysia,GAPS,Background,Active,2005 (4); 2006 (4); 2007 (4); 2009 (4); 2011 (4); 2014 (4); 2017 (1),25,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,Background,Active,2005 (3); 2006 (4); 2007 (4); 2008 (1); 2009 (4); 2011 (4); 2014 (5); 2017 (1),26,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_AS14,Kaddu Khal,India,GAPS,Background,Formerly active,2006 (4); 2007 (4),8,PCB; NBFR; DP; OCP
+GAPS_AS15,Laksar,India,GAPS,Agricultural,Formerly active,2006 (4); 2007 (4),8,PCB; NBFR; DP; OCP
+GAPS_AS16,Dhulikhel,Nepal,GAPS,Background,Formerly active,2006 (2); 2007 (1); 2009 (4); 2011 (4),11,PCB; NBFR; DP; OCP
+GAPS_AS17,Patna,India,GAPS,Urban,Formerly active,2006 (4); 2007 (4),8,PCB; NBFR; DP; OCP
+GAPS_AS18,Mudhol,India,GAPS,Agricultural,Formerly active,2006 (4),4,NBFR; DP; OCP
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,Background,Active,2007 (1); 2009 (2); 2017 (1),4,PCB; OCP; nPFAS; PFAA; VMS
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,Background,Formerly active,2007 (2); 2009 (4); 2011 (4); 2014 (4),14,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_AS21,Abdaly,Kuwait,GAPS,Background,Active,2007 (4); 2009 (4); 2011 (1); 2014 (4),13,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_AS22,Tagaytay City,Philippines,GAPS,Background,Formerly active,2007 (4); 2009 (4),8,PCB; OCP
+GAPS_AS23,Ooty,India,GAPS,Agricultural,Formerly active,2007 (2),2,PCB; OCP
+GAPS_AS24,"Coimbatore, Tamil Nadu",India,GAPS,Background,Formerly active,2007 (3),3,PCB; OCP
+GAPS_AS25,Aliyar Nagar,India,GAPS,Agricultural,Formerly active,2007 (2),2,PCB; OCP
+GAPS_EE01,Danki,Russia,GAPS,Rural,Formerly active,2005 (4); 2006 (4); 2007 (4); 2009 (4),16,PCB; PBDE; NBFR; DP; OCP
+GAPS_EE02,Pomlewo,Poland,GAPS,Rural,Formerly active,2005 (4); 2006 (4); 2007 (4),12,PCB; PBDE; NBFR; DP; OCP
+GAPS_EE03,Košetice,Czechia,GAPS,Background,Active,2005 (4); 2006 (4); 2007 (4); 2009 (5); 2011 (4); 2013 (4); 2014 (4); 2015 (1); 2017 (1),31,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR01,La Palma,Cuba,GAPS,Background,Formerly active,2005 (4); 2011 (1),5,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR02,Veracruz,Mexico,GAPS,Rural,Formerly active,2005 (1),1,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,Background,Active,2005 (4); 2006 (3); 2007 (3); 2009 (3); 2011 (2); 2014 (2); 2015 (2),19,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR04,Arauca,Colombia,GAPS,Rural,Active,2005 (4); 2006 (4); 2007 (3); 2009 (1); 2011 (3); 2017 (1),16,PCB; PBDE; NBFR; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,Background,Formerly active,2005 (4); 2006 (1),5,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR06,Chungara Lake,Chile,GAPS,Background,Formerly active,2005 (3); 2006 (1),4,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,Rural,Formerly active,2005 (3); 2006 (4); 2007 (3); 2009 (3),13,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,Agricultural,Formerly active,2005 (2); 2006 (2),4,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR09,Coyhaique,Chile,GAPS,Background,Formerly active,2005 (4); 2007 (4),8,PCB; PBDE; NBFR; DP; OCP
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,Urban,Formerly active,2006 (2); 2007 (4),6,PCB; OCP
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,Background,Formerly active,2007 (3); 2009 (3),6,PCB; OCP
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,Background,Active,2009 (3); 2011 (4); 2014 (4); 2017 (1),12,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR13,"Santa Cruz Island, Galapagos Islands",Ecuador,GAPS,Background,Active,2009 (2),2,PCB; OCP
+GAPS_GR14,Porto Velho,Brazil,GAPS,Urban,Formerly active,2009 (3),3,PCB; OCP
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,Agricultural,Active,2011 (4); 2014 (4); 2015 (6),14,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,Background,Active,2011 (4); 2014 (4); 2015 (5),13,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR19,Quito,Ecuador,GAPS,Urban,Active,2011 (2),2,PCB; OCP
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,Background,Active,2011 (1); 2014 (3); 2017 (1),5,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR21,Mendoza,Argentina,GAPS,Rural,Active,2014 (3); 2017 (1),4,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR22,Manizales,Colombia,GAPS,Background,Active,2011 (4); 2014 (4); 2015 (5); 2017 (1),14,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,Urban,Active,2014 (4); 2015 (2); 2017 (1),7,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,Background,Active,2014 (4); 2015 (4); 2017 (1),9,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR25,Itatiaia,Brazil,GAPS,Background,Active,2014 (4); 2017 (1),5,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR27,Río Gallegos,Argentina,GAPS,Rural,Formerly active,2014 (2); 2015 (3),5,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_GR28,Concepción,Chile,GAPS,Urban,Active,2014 (4); 2015 (4),8,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,Background,Active,2014 (4); 2015 (5); 2017 (1),10,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,Polar,Active,2005 (2); 2007 (4); 2009 (5); 2011 (8); 2013 (3); 2014 (2); 2015 (1); 2017 (1),26,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,Polar,Active,2005 (4); 2006 (4); 2007 (4); 2009 (4); 2011 (4); 2014 (4); 2015 (1); 2017 (1),26,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,Polar,Formerly active,2005 (2); 2011 (3); 2014 (3); 2017 (1),9,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE04,"Snare Rapids, Northwest Territories",Canada,GAPS,Background,Formerly active,2005 (1),1,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,Agricultural,Active,2005 (4); 2006 (3); 2007 (4); 2009 (5); 2011 (4); 2013 (4); 2014 (4); 2015 (1); 2017 (1),30,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,Background,Active,2005 (3); 2006 (4); 2007 (3); 2008 (1); 2009 (9); 2011 (8); 2013 (4); 2014 (9); 2015 (1); 2017 (1); 2023 (1),44,PCB; PBDE; NBFR; OPE; DP; OCP; CP; nPFAS; PFAA; VMS
+GAPS_WE07,"Vancouver, British Columbia",Canada,GAPS,Urban,Formerly active,2005 (2),2,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE08,"Dorset, Ontario",Canada,GAPS,Background,Formerly active,2005 (4),4,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,Urban,Active,2005 (4); 2006 (4); 2007 (4); 2009 (5); 2011 (4); 2013 (3); 2014 (2); 2015 (1); 2017 (1); 2023 (1),29,PCB; PBDE; NBFR; OPE; DP; OCP; CP; nPFAS; PFAA; VMS
+GAPS_WE10,"Simi Valley, California",United States,GAPS,Rural,Formerly active,2005 (4),4,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE11,"Athens, Georgia",United States,GAPS,Agricultural,Formerly active,2005 (4); 2006 (1),5,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,Background,Active,2005 (4); 2006 (4); 2007 (4); 2009 (5); 2011 (4); 2013 (4); 2014 (6); 2015 (1); 2017 (1),33,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,Polar,Active,2005 (4); 2006 (3); 2007 (2); 2009 (2); 2011 (4); 2013 (2); 2014 (5); 2015 (1); 2017 (1),24,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE14,Stórhöfði,Iceland,GAPS,Background,Active,2005 (4); 2006 (3); 2007 (4); 2008 (1); 2009 (5); 2011 (4); 2013 (3); 2014 (4); 2015 (1); 2017 (1),30,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE15,Hollola,Finland,GAPS,Rural,Formerly active,2005 (3),3,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE16,Malin Head,Ireland,GAPS,Background,Active,2005 (4); 2006 (4); 2007 (4); 2009 (4); 2011 (3); 2013 (4); 2014 (5); 2015 (1); 2017 (1),30,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE17,Paris,France,GAPS,Urban,Active,2005 (3); 2006 (3); 2007 (4); 2008 (1); 2009 (5); 2011 (4); 2014 (4); 2015 (1); 2017 (1),26,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE18,Barcelona,Spain,GAPS,Urban,Formerly active,2005 (4); 2006 (1),5,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE19,Izmir,Türkiye,GAPS,Urban,Formerly active,2005 (4); 2006 (4),8,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE20,Isola Marettimo,Italy,GAPS,Background,Formerly active,2005 (4),4,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,Background,Formerly active,2005 (4); 2006 (4); 2007 (4); 2009 (4),16,PCB; PBDE; NBFR; DP; OCP
+GAPS_WE22,Darwin,Australia,GAPS,Rural,Active,2005 (4); 2006 (3); 2007 (4); 2009 (4); 2011 (4); 2014 (4); 2017 (1),24,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE23,Cape Grim,Australia,GAPS,Background,Active,2005 (4); 2006 (3); 2007 (2); 2008 (1); 2009 (5); 2011 (4); 2013 (4); 2014 (4); 2015 (1),28,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE24,Mario Zucchelli Station (Italy),Antarctica,GAPS,Polar,Formerly active,2005 (1),1,PCB; PBDE; OCP
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,Background,Active,2007 (2); 2008 (1); 2009 (5); 2011 (3); 2013 (3); 2014 (2); 2015 (1); 2017 (1); 2023 (1),19,PCB; PBDE; NBFR; OPE; DP; OCP; CP; nPFAS; PFAA; VMS
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,Background,Active,2006 (2); 2007 (2); 2009 (4); 2011 (4); 2014 (3),15,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,Background,Formerly active,2006 (3),3,PCB; NBFR; DP; OCP
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,Background,Formerly active,2006 (3); 2007 (4); 2009 (4); 2011 (4),15,PCB; NBFR; DP; OCP
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,Background,Formerly active,2006 (3),3,PCB; NBFR; DP; OCP
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,Background,Active,2006 (4); 2007 (4); 2009 (4); 2011 (4); 2014 (4),20,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_WE31,North Island,New Zealand,GAPS,Background,Formerly active,2006 (1),1,PCB; NBFR; DP; OCP
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,Background,Active,2007 (4); 2009 (5); 2011 (5); 2013 (4); 2014 (4); 2015 (1); 2017 (1); 2023 (1),25,PCB; PBDE; NBFR; OPE; DP; OCP; CP; nPFAS; PFAA; VMS
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,Background,Active,2007 (3); 2009 (4); 2011 (5); 2013 (4); 2014 (4); 2015 (1); 2017 (1),22,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,Background,Active,2007 (4); 2008 (1); 2009 (5); 2011 (4); 2013 (4); 2014 (3); 2015 (1); 2017 (1),23,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE35,"Point Reyes, California",United States,GAPS,Background,Active,2007 (4); 2009 (5); 2011 (4); 2013 (3); 2014 (4); 2015 (1); 2017 (1),22,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE36,"Sydney, Florida",United States,GAPS,Urban,Active,2007 (3); 2009 (5); 2011 (1); 2013 (4); 2014 (4); 2017 (1),18,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,Background,Active,2007 (3); 2009 (5); 2011 (4); 2013 (4); 2014 (4); 2015 (1); 2017 (1),22,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,Background,Active,2007 (3); 2009 (4); 2011 (5); 2014 (4); 2017 (1),17,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,Background,Active,2009 (4); 2011 (4); 2014 (4); 2017 (1),13,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,Background,Active,2009 (4); 2011 (1); 2013 (1),6,PCB; OCP; nPFAS; PFAA; VMS
+GAPS_WE41,Doñana National Park,Spain,GAPS,Background,Active,2009 (4); 2011 (4); 2014 (4); 2017 (1),13,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,Background,Formerly active,2009 (2); 2011 (4); 2014 (1); 2017 (1),8,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,Background,Active,2009 (2); 2013 (1); 2015 (1),4,PCB; OCP; nPFAS; PFAA; VMS
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,Background,Active,2014 (4); 2017 (1),5,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE45,"Longwoods, Ontario",Canada,GAPS,Rural,Active,2014 (4),4,PCB; PBDE; NBFR; OPE; DP; OCP
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,Rural,Active,2014 (4); 2017 (1),5,PCB; PBDE; NBFR; OPE; DP; OCP; nPFAS; PFAA; VMS
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,Rural,Active,2014 (4); 2017 (1); 2023 (1),6,PCB; PBDE; NBFR; OPE; DP; OCP; CP; nPFAS; PFAA; VMS
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AF04,Pretoria,South Africa,GAPS-Megacities,Urban,Active,2023 (1),1,CP
+GAPS-MC_AS01,Kolkata,India,GAPS-Megacities,Urban,Formerly active,2018 (1),1,PBDE; NBFR; OPE; DP
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_AS06,Seoul,South Korea,GAPS-Megacities,Urban,Active,2023 (1),1,CP
+GAPS-MC_AS07,Riyadh,Saudi Arabia,GAPS-Megacities,Urban,Active,2023 (1),1,CP
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_GR05,Buenos Aires,Argentina,GAPS-Megacities,Urban,Active,2018 (1),1,PBDE; NBFR; OPE; DP
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_WE04,Istanbul,Türkiye,GAPS-Megacities,Urban,Active,2018 (1),1,PBDE; NBFR; OPE; DP
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,Urban,Active,2018 (1); 2023 (1),2,PBDE; NBFR; OPE; DP; CP

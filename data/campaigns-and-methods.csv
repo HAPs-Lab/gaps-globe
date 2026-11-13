@@ -1,0 +1,48 @@
+﻿Campaign,Network,Family,Sampler,Analytical technique,Sampling-rate method,Recalculated,Published in
+2005,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2005,GAPS,PBDE,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/es060447t
+2005,GAPS,NBFR,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1016/j.envpol.2016.01.080
+2005,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2005,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2006,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2006,GAPS,NBFR,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1016/j.envpol.2016.01.080
+2006,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2006,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2007,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2007,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2007,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2008,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2009,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2009,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2009,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2009,GAPS,nPFAS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, positive chemical ionisation",PAS-PUF template with depuration compounds,Yes,10.1021/es1009696; 10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2009,GAPS,PFAA,Sorbent-impregnated PUF (SIP) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with depuration compounds,Yes,10.1021/es1009696; 10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2009,GAPS,VMS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, electron ionisation",PAS-PUF template with depuration compounds,Yes,10.1021/es200301j; 10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2011,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2011,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS, negative chemical ionisation",PAS-PUF template with depuration compounds,No,10.1021/acs.estlett.0c00758
+2011,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2013,GAPS,nPFAS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, positive chemical ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2013,GAPS,PFAA,Sorbent-impregnated PUF (SIP) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2013,GAPS,VMS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, electron ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291
+2014,GAPS,PCB,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2014,GAPS,PBDE,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation","Fixed 4 m³/day, then PAS-PUF template",Yes,10.1021/acs.est.7b06239; 10.1021/acs.est.8b00995
+2014,GAPS,NBFR,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1021/acs.est.7b06239; 10.1021/acs.est.8b00995
+2014,GAPS,OPE,Polyurethane foam (PUF) disk,"UPLC-MS/MS, electrospray ionisation",Fixed sampling rate of 4 m³/day,No,10.1021/acs.est.7b06239; 10.1021/acs.est.8b00995; 10.1016/j.scitotenv.2016.06.229
+2014,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1021/acs.est.7b06239; 10.1021/acs.est.8b00995
+2014,GAPS,OCP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acs.est.1c01705
+2015,GAPS,PBDE,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation","Fixed 4 m³/day, then PAS-PUF template",Yes,10.1021/acs.est.8b00995
+2015,GAPS,NBFR,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1021/acs.est.8b00995
+2015,GAPS,OPE,Polyurethane foam (PUF) disk,"UPLC-MS/MS, electrospray ionisation",Fixed sampling rate of 4 m³/day,No,10.1021/acs.est.8b00995
+2015,GAPS,DP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation",Fixed sampling rate of 4 m³/day,Yes,10.1021/acs.est.8b00995
+2015,GAPS,nPFAS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, positive chemical ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291; 10.1021/acs.est.8b00995
+2015,GAPS,PFAA,Sorbent-impregnated PUF (SIP) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291; 10.1021/acs.est.8b00995
+2015,GAPS,VMS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, electron ionisation",PAS-PUF template with depuration compounds,Yes,10.1016/j.envpol.2018.03.017; 10.1016/j.envpol.2023.121291; 10.1021/acs.est.8b00995
+2017,GAPS,nPFAS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, positive chemical ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1016/j.envpol.2023.121291
+2017,GAPS,PFAA,Sorbent-impregnated PUF (SIP) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1016/j.envpol.2023.121291
+2017,GAPS,VMS,Sorbent-impregnated PUF (SIP) disk,"GC-MS, electron ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1016/j.envpol.2023.121291
+2018,GAPS-Megacities,PBDE,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation","Fixed 4 m³/day, then PAS-PUF template",Yes,10.1016/j.envpol.2020.115416
+2018,GAPS-Megacities,NBFR,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation","Fixed 4 m³/day, then PAS-PUF template",Yes,10.1016/j.envpol.2020.115416
+2018,GAPS-Megacities,OPE,Polyurethane foam (PUF) disk,"UPLC-MS/MS, electrospray ionisation","Fixed 4 m³/day, then PAS-PUF template",No,10.1016/j.envpol.2020.115416
+2018,GAPS-Megacities,DP,Polyurethane foam (PUF) disk,"GC-MS/MS, electron ionisation","Fixed 4 m³/day, then PAS-PUF template",Yes,10.1016/j.envpol.2020.115416
+2023,GAPS,CP,Polyurethane foam (PUF) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acsestair.5c00350
+2023,GAPS-Megacities,CP,Polyurethane foam (PUF) disk,"UPLC-MS/MS, electrospray ionisation",PAS-PUF template with Herkert et al. sampling rates,No,10.1021/acsestair.5c00350

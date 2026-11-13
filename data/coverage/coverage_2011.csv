@@ -1,0 +1,102 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF04,De Aar,South Africa,GAPS,2011,PCB,4,7,28,24
+GAPS_AF04,De Aar,South Africa,GAPS,2011,OCP,4,11,44,22
+GAPS_AF09,Vredefort Dome,South Africa,GAPS,2011,PCB,4,7,28,24
+GAPS_AF09,Vredefort Dome,South Africa,GAPS,2011,OCP,4,11,44,21
+GAPS_AS11,Manila,Philippines,GAPS,2011,PCB,4,7,28,28
+GAPS_AS11,Manila,Philippines,GAPS,2011,OCP,4,11,44,42
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2011,PCB,4,7,28,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2011,OCP,4,11,44,9
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,PCB,4,7,28,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,DP,1,2,2,2
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2011,OCP,4,11,44,15
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2011,PCB,4,7,28,23
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2011,OCP,4,11,44,22
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2011,PCB,4,7,28,21
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2011,OCP,4,11,44,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2011,PCB,1,7,7,6
+GAPS_AS21,Abdaly,Kuwait,GAPS,2011,OCP,1,11,11,6
+GAPS_EE03,Košetice,Czechia,GAPS,2011,PCB,4,7,28,28
+GAPS_EE03,Košetice,Czechia,GAPS,2011,OCP,4,11,44,27
+GAPS_GR01,La Palma,Cuba,GAPS,2011,PCB,1,7,7,7
+GAPS_GR01,La Palma,Cuba,GAPS,2011,OCP,1,11,11,10
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2011,PCB,2,7,14,3
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2011,OCP,2,11,22,11
+GAPS_GR04,Arauca,Colombia,GAPS,2011,PCB,3,7,21,16
+GAPS_GR04,Arauca,Colombia,GAPS,2011,OCP,3,11,33,14
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2011,PCB,4,7,28,14
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2011,OCP,4,11,44,14
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2011,PCB,4,7,28,25
+GAPS_GR16,"Valley of the Yaqui, Sonora",Mexico,GAPS,2011,OCP,4,11,44,40
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2011,PCB,4,7,28,23
+GAPS_GR17,"Celestún, Yucatan",Mexico,GAPS,2011,OCP,4,11,44,31
+GAPS_GR19,Quito,Ecuador,GAPS,2011,PCB,2,7,14,13
+GAPS_GR19,Quito,Ecuador,GAPS,2011,OCP,2,11,22,9
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2011,PCB,1,7,7,4
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2011,OCP,1,11,11,5
+GAPS_GR22,Manizales,Colombia,GAPS,2011,PCB,4,7,28,26
+GAPS_GR22,Manizales,Colombia,GAPS,2011,OCP,4,11,44,30
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2011,PCB,8,7,56,46
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2011,OCP,8,11,88,55
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2011,PCB,4,7,28,26
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2011,OCP,4,11,44,28
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2011,PCB,3,7,21,19
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2011,OCP,3,11,33,24
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2011,PCB,4,7,28,21
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2011,OCP,4,11,44,34
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,PCB,8,7,56,39
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2011,OCP,8,11,88,34
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,PCB,4,7,28,25
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,DP,1,2,2,0
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2011,OCP,4,11,44,29
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2011,PCB,4,7,28,27
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2011,OCP,4,11,44,27
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2011,PCB,4,7,28,25
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2011,OCP,4,11,44,29
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,PCB,4,7,28,27
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,DP,1,2,2,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2011,OCP,4,11,44,31
+GAPS_WE16,Malin Head,Ireland,GAPS,2011,PCB,3,7,21,19
+GAPS_WE16,Malin Head,Ireland,GAPS,2011,OCP,3,11,33,26
+GAPS_WE17,Paris,France,GAPS,2011,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2011,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2011,OCP,4,11,44,41
+GAPS_WE22,Darwin,Australia,GAPS,2011,PCB,4,7,28,26
+GAPS_WE22,Darwin,Australia,GAPS,2011,OCP,4,11,44,31
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,PCB,4,7,28,19
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,DP,1,2,2,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2011,OCP,4,11,44,25
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,PCB,3,7,21,18
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2011,OCP,3,11,33,16
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2011,PCB,4,7,28,10
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2011,OCP,4,11,44,7
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2011,PCB,4,7,28,18
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2011,OCP,4,11,44,18
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2011,PCB,4,7,28,25
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2011,OCP,4,11,44,19
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,PCB,5,7,35,24
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,DP,1,2,2,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2011,OCP,5,11,55,30
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2011,PCB,5,7,35,23
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2011,OCP,5,11,55,17
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,PCB,4,7,28,28
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,DP,1,2,2,2
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2011,OCP,4,11,44,33
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2011,PCB,4,7,28,25
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2011,OCP,4,11,44,28
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2011,PCB,1,7,7,7
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2011,OCP,1,11,11,11
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2011,PCB,4,7,28,15
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2011,OCP,4,11,44,16
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2011,PCB,5,7,35,30
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2011,OCP,5,11,55,5
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2011,PCB,4,7,28,18
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2011,OCP,4,11,44,11
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2011,PCB,1,7,7,7
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2011,OCP,1,11,11,11
+GAPS_WE41,Doñana National Park,Spain,GAPS,2011,PCB,4,7,28,17
+GAPS_WE41,Doñana National Park,Spain,GAPS,2011,OCP,4,11,44,18
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2011,PCB,4,7,28,23
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2011,OCP,4,11,44,24

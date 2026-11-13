@@ -1,0 +1,25 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2023,CP,1,2,2,2
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2023,CP,1,1,1,1
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2023,CP,1,1,1,1
+GAPS-MC_WE01,Toronto,Canada,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE02,New York City,United States,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE03,Sydney,Australia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE05,London,United Kingdom,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_WE06,Madrid,Spain,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR01,São Paulo,Brazil,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR02,Bogota,Colombia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR03,Mexico City,Mexico,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_GR04,Santiago,Chile,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS02,Beijing,China,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS03,Bangkok,Thailand,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS04,Tokyo,Japan,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS05,New Delhi,India,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS06,Seoul,South Korea,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AS07,Riyadh,Saudi Arabia,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF01,Lagos,Nigeria,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF02,Cairo,Egypt,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_AF04,Pretoria,South Africa,GAPS-Megacities,2023,CP,1,2,2,2
+GAPS-MC_EE01,Warsaw,Poland,GAPS-Megacities,2023,CP,1,2,2,2

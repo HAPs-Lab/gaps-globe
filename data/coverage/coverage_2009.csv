@@ -1,0 +1,161 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF04,De Aar,South Africa,GAPS,2009,PCB,4,7,28,3
+GAPS_AF04,De Aar,South Africa,GAPS,2009,OCP,4,11,44,18
+GAPS_AF07,Mt. Kenya,Kenya,GAPS,2009,PCB,4,7,28,0
+GAPS_AF07,Mt. Kenya,Kenya,GAPS,2009,OCP,4,11,44,14
+GAPS_AF08,Vanderbijlpark,South Africa,GAPS,2009,PCB,4,7,28,15
+GAPS_AF08,Vanderbijlpark,South Africa,GAPS,2009,OCP,4,11,44,24
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2009,PCB,4,7,28,0
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2009,OCP,4,11,44,6
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2009,PCB,4,7,28,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2009,OCP,4,11,44,9
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2009,PCB,4,7,28,5
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2009,OCP,4,11,44,22
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2009,PCB,2,7,14,9
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2009,OCP,2,11,22,18
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2009,PCB,4,7,28,0
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2009,OCP,4,11,44,19
+GAPS_AS21,Abdaly,Kuwait,GAPS,2009,PCB,4,7,28,12
+GAPS_AS21,Abdaly,Kuwait,GAPS,2009,OCP,4,11,44,13
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2009,PCB,4,7,28,18
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2009,OCP,4,11,44,25
+GAPS_EE01,Danki,Russia,GAPS,2009,PCB,4,7,28,20
+GAPS_EE01,Danki,Russia,GAPS,2009,OCP,4,11,44,12
+GAPS_EE03,Košetice,Czechia,GAPS,2009,PCB,4,7,28,19
+GAPS_EE03,Košetice,Czechia,GAPS,2009,OCP,4,11,44,17
+GAPS_EE03,Košetice,Czechia,GAPS,2009,nPFAS,1,10,10,0
+GAPS_EE03,Košetice,Czechia,GAPS,2009,PFAA,1,17,17,2
+GAPS_EE03,Košetice,Czechia,GAPS,2009,VMS,1,7,7,5
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2009,PCB,3,7,21,1
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2009,OCP,3,11,33,8
+GAPS_GR04,Arauca,Colombia,GAPS,2009,PCB,1,7,7,0
+GAPS_GR04,Arauca,Colombia,GAPS,2009,OCP,1,11,11,4
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2009,PCB,3,7,21,9
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2009,OCP,3,11,33,12
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2009,PCB,3,7,21,6
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2009,OCP,3,11,33,4
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2009,PCB,3,7,21,0
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2009,OCP,3,11,33,8
+GAPS_GR13,"Santa Cruz Island, Galapagos Islands",Ecuador,GAPS,2009,PCB,2,7,14,1
+GAPS_GR13,"Santa Cruz Island, Galapagos Islands",Ecuador,GAPS,2009,OCP,2,11,22,3
+GAPS_GR14,Porto Velho,Brazil,GAPS,2009,PCB,3,7,21,10
+GAPS_GR14,Porto Velho,Brazil,GAPS,2009,OCP,3,11,33,24
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,PCB,4,7,28,13
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,OCP,4,11,44,25
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2009,VMS,1,7,7,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,PCB,3,7,21,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,OCP,3,11,33,19
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,nPFAS,1,10,10,5
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2009,VMS,1,7,7,4
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,PCB,4,7,28,6
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,OCP,4,11,44,25
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2009,VMS,1,7,7,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,PCB,8,7,56,16
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,OCP,8,11,88,34
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,PFAA,1,17,17,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2009,VMS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,PCB,4,7,28,18
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,OCP,4,11,44,33
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2009,VMS,1,7,7,7
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,PCB,4,7,28,26
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,OCP,4,11,44,22
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2009,VMS,1,7,7,5
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,PCB,1,7,7,0
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,OCP,1,11,11,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,nPFAS,1,10,10,6
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,PFAA,1,17,17,3
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2009,VMS,1,7,7,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,PCB,4,7,28,20
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,OCP,4,11,44,30
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2009,VMS,1,7,7,4
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,PCB,3,7,21,11
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,OCP,3,11,33,23
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,PFAA,1,17,17,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2009,VMS,1,7,7,6
+GAPS_WE17,Paris,France,GAPS,2009,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2009,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2009,OCP,4,11,44,34
+GAPS_WE17,Paris,France,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE17,Paris,France,GAPS,2009,PFAA,1,17,17,7
+GAPS_WE17,Paris,France,GAPS,2009,VMS,1,7,7,7
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2009,PCB,4,7,28,20
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2009,OCP,4,11,44,21
+GAPS_WE22,Darwin,Australia,GAPS,2009,PCB,4,7,28,2
+GAPS_WE22,Darwin,Australia,GAPS,2009,OCP,4,11,44,25
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,PCB,4,7,28,3
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,OCP,4,11,44,14
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2009,VMS,1,7,7,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,PCB,4,7,28,7
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,DP,1,2,2,1
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,OCP,4,11,44,21
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2009,VMS,1,7,7,5
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2009,PCB,4,7,28,1
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2009,OCP,4,11,44,6
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2009,PCB,4,7,28,0
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2009,OCP,4,11,44,7
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2009,PCB,4,7,28,11
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2009,OCP,4,11,44,17
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,PCB,4,7,28,5
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,DP,1,2,2,1
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,OCP,4,11,44,13
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2009,VMS,1,7,7,4
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,PCB,3,7,21,3
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,OCP,3,11,33,8
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2009,VMS,1,7,7,5
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,PCB,4,7,28,19
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,OCP,4,11,44,35
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,PFAA,1,17,17,4
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2009,VMS,1,7,7,0
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,PCB,4,7,28,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,OCP,4,11,44,23
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,PFAA,1,17,17,1
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2009,VMS,1,7,7,7
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,PCB,4,7,28,14
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,OCP,4,11,44,36
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,PFAA,1,17,17,2
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,PCB,4,7,28,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,OCP,4,11,44,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,nPFAS,1,10,10,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2009,PCB,4,7,28,11
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2009,OCP,4,11,44,3
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2009,PCB,4,7,28,7
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2009,OCP,4,11,44,8
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,PCB,3,7,21,16
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,OCP,3,11,33,30
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,nPFAS,1,10,10,7
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,PFAA,1,17,17,5
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2009,VMS,1,7,7,6
+GAPS_WE41,Doñana National Park,Spain,GAPS,2009,PCB,4,7,28,15
+GAPS_WE41,Doñana National Park,Spain,GAPS,2009,OCP,4,11,44,19
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2009,PCB,2,7,14,9
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2009,OCP,2,11,22,12
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2009,PCB,2,7,14,1
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2009,OCP,2,11,22,13

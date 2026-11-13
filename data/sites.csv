@@ -1,0 +1,133 @@
+﻿Site code (ECCC),GMP site code,Site name,Country,ISO3,Network,UN region,Status,Site type,Latitude,Longitude,Altitude (m)
+GAPS_AF01,A_GH_Abo_GAPS,Abono,Ghana,GHA,GAPS,Africa,Formerly active,Rural,6.532571,-1.430115,233
+GAPS_AF02,A_MW_Lil_GAPS,Lilongwe,Malawi,MWI,GAPS,Africa,Formerly active,Background,-14.18333293213205,33.78333168199832,1148
+GAPS_AF03,A_ZA_Kal_GAPS,Kalahari,South Africa,ZAF,GAPS,Africa,Formerly active,Background,-25.86666696083871,22.8999999234721,1076
+GAPS_AF04,A_ZA_De_GAPS,De Aar,South Africa,ZAF,GAPS,Africa,Active,Background,-30.66500348472679,23.99300124737959,1287
+GAPS_AF05,A_EG_Cai_GAPS,Cairo,Egypt,EGY,GAPS,Africa,Formerly active,Rural,30.1403305206035,31.61915000514647,193
+GAPS_AF07,A_KE_Ken_GAPS,Mt. Kenya,Kenya,KEN,GAPS,Africa,Active,Background,-0.06220000067001542,37.29719937652977,3678
+GAPS_AF08,A_ZA_Van_GAPS,Vanderbijlpark,South Africa,ZAF,GAPS,Africa,Formerly active,Background,-26.7751388888889,27.88447222222222,312
+GAPS_AF09,A_ZA_Vre_GAPS,Vredefort Dome,South Africa,ZAF,GAPS,Africa,Formerly active,Background,-27.0013475615022,27.49968277466872,312
+GAPS_AF10,A_NG_Yab_GAPS,"Yaba, Lagos",Nigeria,NGA,GAPS,Africa,Active,Urban,6.517731,3.372618,1
+GAPS_AS01,A_CN_Har_GAPS,"Harbin, Heilong Jiang",China,CHN,GAPS,Asia-Pacific,Formerly active,Urban,45.74000000016017,126.6400000019178,143
+GAPS_AS02,A_CN_Dal_GAPS,"Dalian, Liaoning",China,CHN,GAPS,Asia-Pacific,Formerly active,Background,40.9899998862851,122.0500001213505,4
+GAPS_AS03,A_KR_Seo_GAPS,Seoul,South Korea,KOR,GAPS,Asia-Pacific,Formerly active,Urban,37.58472200016905,127.0241666666154,48
+GAPS_AS04,A_KR_Poh_GAPS,Pohang,South Korea,KOR,GAPS,Asia-Pacific,Formerly active,Rural,36.01249999991759,129.3202777778749,59
+GAPS_AS05,A_JP_Kum_GAPS,Kumamoto,Japan,JPN,GAPS,Asia-Pacific,Formerly active,Background,32.78333333333333,130.7,12
+GAPS_AS06,A_CN_Qin_GAPS,"Mt. Qingcheng, Sichuan",China,CHN,GAPS,Asia-Pacific,Formerly active,Rural,30.959083,103.543871,2109
+GAPS_AS07,A_CN_Che_GAPS,"Chengdu, Sichuan",China,CHN,GAPS,Asia-Pacific,Formerly active,Urban,30.6700000002851,104.0697222223545,501
+GAPS_AS08,A_KW_Kuw_GAPS,Kuwait City,Kuwait,KWT,GAPS,Asia-Pacific,Formerly active,Urban,29.34000000003954,47.89999999978347,0
+GAPS_AS09,A_IN_Eas_GAPS,East Arjun Nagar,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,28.65565300033134,77.2949260000923,212
+GAPS_AS10,A_IN_Baw_GAPS,Bawana,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,28.74459599991622,77.12046100003386,219
+GAPS_AS11,A_PH_Man_GAPS,Manila,Philippines,PHL,GAPS,Asia-Pacific,Active,Urban,14.65194444445849,121.0688889999773,74
+GAPS_AS12,A_MY_Dan_GAPS,Danum Valley,Malaysia,MYS,GAPS,Asia-Pacific,Active,Background,4.981390000008206,117.8436100001129,426
+GAPS_AS13,A_ID_Buk_GAPS,Bukit Kototabang,Indonesia,IDN,GAPS,Asia-Pacific,Active,Background,0.1999999999990585,100.3200000001062,864
+GAPS_AS14,A_IN_Kad_GAPS,Kaddu Khal,India,IND,GAPS,Asia-Pacific,Formerly active,Background,30.40555600006195,78.29972222231565,2379
+GAPS_AS15,A_IN_Lak_GAPS,Laksar,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,29.74694400013194,78.02944444440554,239
+GAPS_AS16,A_NP_Dhu_GAPS,Dhulikhel,Nepal,NPL,GAPS,Asia-Pacific,Formerly active,Background,27.61805600003991,85.54166666675862,1473
+GAPS_AS17,A_IN_Pat_GAPS,Patna,India,IND,GAPS,Asia-Pacific,Formerly active,Urban,25.61944400002011,85.17194444451236,59
+GAPS_AS18,A_IN_Mud_GAPS,Mudhol,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,16.34213300008103,75.28778333321087,559
+GAPS_AS19,A_KR_Gos_GAPS,"Gosan, Jeju Island",South Korea,KOR,GAPS,Asia-Pacific,Active,Background,33.29361099723894,126.1627777801165,49
+GAPS_AS20,A_CN_Nam_GAPS,"Nam Co, Tibet",China,CHN,GAPS,Asia-Pacific,Formerly active,Background,30.76666700020741,90.98333333333379,4718
+GAPS_AS21,A_KW_Abd_GAPS,Abdaly,Kuwait,KWT,GAPS,Asia-Pacific,Active,Background,29.97883300018599,47.70633333335318,52
+GAPS_AS22,A_PH_Tag_GAPS,Tagaytay City,Philippines,PHL,GAPS,Asia-Pacific,Formerly active,Background,14.14138899989229,121.0049999998478,505
+GAPS_AS23,A_IN_Oot_GAPS,Ooty,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,11.41666700001843,76.6833333333886,2244
+GAPS_AS24,A_IN_Coi_GAPS,"Coimbatore, Tamil Nadu",India,IND,GAPS,Asia-Pacific,Formerly active,Background,11.01355799997645,76.93784800011044,426.7
+GAPS_AS25,A_IN_Ali_GAPS,Aliyar Nagar,India,IND,GAPS,Asia-Pacific,Formerly active,Agricultural,10.4913889999807,76.9688888887547,0
+GAPS_EE01,A_RU_Dan_GAPS,Danki,Russia,RUS,GAPS,Central and Eastern Europe,Formerly active,Rural,54.9,38.12975362757881,180
+GAPS_EE02,A_PL_Pom_GAPS,Pomlewo,Poland,POL,GAPS,Central and Eastern Europe,Formerly active,Rural,54.21527777777778,18.37472222222222,231
+GAPS_EE03,A_CZ_Kos_GAPS,Košetice,Czechia,CZE,GAPS,Central and Eastern Europe,Active,Background,49.58356591003066,15.0837248468391,534
+GAPS_GR01,A_CU_La_GAPS,La Palma,Cuba,CUB,GAPS,Latin America and the Caribbean,Formerly active,Background,22.75202028696062,-83.53486565198207,47
+GAPS_GR02,A_MX_Ver_GAPS,Veracruz,Mexico,MEX,GAPS,Latin America and the Caribbean,Formerly active,Rural,19.20006089776393,-96.13337039183453,10
+GAPS_GR03,A_CR_Tap_GAPS,"Tapanti National Park, La Esperanza",Costa Rica,CRI,GAPS,Latin America and the Caribbean,Active,Background,9.69573281848413,-83.86535409282172,2830
+GAPS_GR04,A_CO_Ara_GAPS,Arauca,Colombia,COL,GAPS,Latin America and the Caribbean,Active,Rural,7.012847222222222,-70.743398,1.95
+GAPS_GR05,A_BO_Hua_GAPS,"Huayna Potosí, La Paz",Bolivia,BOL,GAPS,Latin America and the Caribbean,Formerly active,Background,-16.2721388888889,-68.1361111111111,5192
+GAPS_GR06,A_CL_Chu_GAPS,Chungara Lake,Chile,CHL,GAPS,Latin America and the Caribbean,Formerly active,Background,-18.2166643545061,-69.16666664190242,4320
+GAPS_GR07,A_BR_Ind_GAPS,"Indaiatuba, São Paulo",Brazil,BRA,GAPS,Latin America and the Caribbean,Formerly active,Rural,-23.15752588797106,-47.16849945672676,760
+GAPS_GR08,A_AR_Bah_GAPS,Bahia Blanca,Argentina,ARG,GAPS,Latin America and the Caribbean,Formerly active,Agricultural,-38.75000026252938,-62.25000013880482,32
+GAPS_GR09,A_CL_Coy_GAPS,Coyhaique,Chile,CHL,GAPS,Latin America and the Caribbean,Formerly active,Background,-45.58333426792583,-72.03333322356693,276
+GAPS_GR10,A_MX_Tla_GAPS,"Tlahuac, Mexico City",Mexico,MEX,GAPS,Latin America and the Caribbean,Formerly active,Urban,19.24555702146721,-99.01000028471968,2072
+GAPS_GR11,A_BR_StP_GAPS,St. Peter and St. Paul Rocks,Brazil,BRA,GAPS,Latin America and the Caribbean,Formerly active,Background,0.917357,-29.345719,0
+GAPS_GR12,A_BB_Rag_GAPS,"Ragged Point, St. Philip",Barbados,BRB,GAPS,Latin America and the Caribbean,Active,Background,13.16505137692564,-59.43215078601872,0
+GAPS_GR13,A_EC_San_GAPS,"Santa Cruz Island, Galapagos Islands",Ecuador,ECU,GAPS,Latin America and the Caribbean,Active,Background,-0.9784576890337902,-89.35912948643484,168
+GAPS_GR14,A_BR_Por_GAPS,Porto Velho,Brazil,BRA,GAPS,Latin America and the Caribbean,Formerly active,Urban,-8.836110708634356,-63.93888811744863,99
+GAPS_GR16,A_MX_Son_GAPS,"Valley of the Yaqui, Sonora",Mexico,MEX,GAPS,Latin America and the Caribbean,Active,Agricultural,27.12730793151225,-109.8404707785814,140
+GAPS_GR17,A_MX_Yuc_GAPS,"Celestún, Yucatan",Mexico,MEX,GAPS,Latin America and the Caribbean,Active,Background,20.85920078716469,-90.39240001907443,52
+GAPS_GR19,A_EC_Qui_GAPS,Quito,Ecuador,ECU,GAPS,Latin America and the Caribbean,Active,Urban,-0.2500000035906522,-78.58333436811783,1658
+GAPS_GR20,A_AR_Pie_GAPS,"Pierre Auger Observatory, Patagonia Flats",Argentina,ARG,GAPS,Latin America and the Caribbean,Active,Background,-35.11372681963502,-65.59990338788205,329
+GAPS_GR21,A_AR_Men_GAPS,Mendoza,Argentina,ARG,GAPS,Latin America and the Caribbean,Active,Rural,-32.70922322757797,-68.40044713176893,596
+GAPS_GR22,A_CO_Man_GAPS,Manizales,Colombia,COL,GAPS,Latin America and the Caribbean,Active,Background,5.075833373418386,-75.43666892342995,2670
+GAPS_GR23,A_BR_SaoL_GAPS,São Luis do Maranha,Brazil,BRA,GAPS,Latin America and the Caribbean,Active,Urban,-2.553913,-44.250022,10
+GAPS_GR24,A_BR_Jos_GAPS,São Jose dos Ausentes,Brazil,BRA,GAPS,Latin America and the Caribbean,Active,Background,-28.59417,-49.81859,1270
+GAPS_GR25,A_BR_Ita_GAPS,Itatiaia,Brazil,BRA,GAPS,Latin America and the Caribbean,Active,Background,-22.385833,-44.678889,2400
+GAPS_GR27,A_AR_Rio_GAPS,Río Gallegos,Argentina,ARG,GAPS,Latin America and the Caribbean,Formerly active,Rural,-51.64731,-69.20731,20
+GAPS_GR28,A_CL_Con_GAPS,Concepción,Chile,CHL,GAPS,Latin America and the Caribbean,Active,Urban,-36.829323,-73.034153,30
+GAPS_GR29,A_BO_Cha_GAPS,Chacaltaya,Bolivia,BOL,GAPS,Latin America and the Caribbean,Active,Background,-16.35,-68.131,5240
+GAPS_WE01,A_CA_Ale_GAPS,"Alert, Nunavut",Canada,CAN,GAPS,Western European and Others Group,Active,Polar,82.45013299637812,-63.50396700183938,0
+GAPS_WE02,A_US_Bar_GAPS,"Barrow, Alaska",United States,USA,GAPS,Western European and Others Group,Active,Polar,71.32000000011206,-156.6000000004253,5
+GAPS_WE03,A_US_Law_GAPS,"St. Lawrence Island, Alaska",United States,USA,GAPS,Western European and Others Group,Formerly active,Polar,63.695665,-170.483615,4
+GAPS_WE04,A_CA_Sna_GAPS,"Snare Rapids, Northwest Territories",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,63.5086108526771,-116.0077777520483,264
+GAPS_WE05,A_CA_Bra_GAPS,"Bratt's Lake, Saskatchewan",Canada,CAN,GAPS,Western European and Others Group,Active,Agricultural,50.20083299968092,-104.7102780002989,595
+GAPS_WE06,A_CA_Whi_GAPS,"Whistler, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Active,Background,50.05833346378115,-122.9569440757873,2180
+GAPS_WE07,A_CA_Van_GAPS,"Vancouver, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Urban,49.2166669998944,-123.1166670003023,42
+GAPS_WE08,A_CA_Dor_GAPS,"Dorset, Ontario",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,45.2200000001133,-78.93000000017817,317
+GAPS_WE09,A_CA_Dow_GAPS,"Downsview, Ontario",Canada,CAN,GAPS,Western European and Others Group,Active,Urban,43.7811109999453,-79.46833300011714,184
+GAPS_WE10,A_US_Sim_GAPS,"Simi Valley, California",United States,USA,GAPS,Western European and Others Group,Formerly active,Rural,34.26666699972311,-118.7666670000928,249
+GAPS_WE11,A_US_Ath_GAPS,"Athens, Georgia",United States,USA,GAPS,Western European and Others Group,Formerly active,Agricultural,33.37555600012228,-83.47416699998927,141
+GAPS_WE12,A_BM_Tud_GAPS,Tudor Hill,Bermuda,BMU,GAPS,Western European and Others Group,Active,Background,32.36666700002076,-64.65000000013706,24
+GAPS_WE13,A_NO_Spi_GAPS,Ny-Ålesund,Norway,NOR,GAPS,Western European and Others Group,Active,Polar,78.90724995865031,11.88666693015877,475
+GAPS_WE14,A_IS_Sto_GAPS,Stórhöfði,Iceland,ISL,GAPS,Western European and Others Group,Active,Background,63.399999997246,-20.28299999810391,82
+GAPS_WE15,A_FI_Hol_GAPS,Hollola,Finland,FIN,GAPS,Western European and Others Group,Formerly active,Rural,61.05454100010756,25.66127400025539,98
+GAPS_WE16,A_IE_Mal_GAPS,Malin Head,Ireland,IRL,GAPS,Western European and Others Group,Active,Background,55.37167222628003,-7.338987659791873,18
+GAPS_WE17,A_FR_Par_GAPS,Paris,France,FRA,GAPS,Western European and Others Group,Active,Urban,48.86394999978205,2.358269000167441,35
+GAPS_WE18,A_ES_Bar_GAPS,Barcelona,Spain,ESP,GAPS,Western European and Others Group,Formerly active,Urban,41.38333299985585,2.183333000320711,3
+GAPS_WE19,A_TR_Izm_GAPS,Izmir,Türkiye,TUR,GAPS,Western European and Others Group,Formerly active,Urban,38.4233333334206,27.13722222224567,10
+GAPS_WE20,A_IT_Iso_GAPS,Isola Marettimo,Italy,ITA,GAPS,Western European and Others Group,Formerly active,Background,37.96883299997865,12.07111099995577,28
+GAPS_WE21,A_ES_Tel_GAPS,"Telde, Las Palmas, Canary Islands",Spain,ESP,GAPS,Western European and Others Group,Formerly active,Background,27.99115799982975,-15.36878900019659,2
+GAPS_WE22,A_AU_Dar_GAPS,Darwin,Australia,AUS,GAPS,Western European and Others Group,Active,Rural,-12.37066699980419,130.8644999998706,8
+GAPS_WE23,A_AU_Cap_GAPS,Cape Grim,Australia,AUS,GAPS,Western European and Others Group,Active,Background,-40.68361857810255,144.7009317216289,71
+GAPS_WE24,A_AQ_Mar_GAPS,Mario Zucchelli Station (Italy),Antarctica,ATA,GAPS,Western European and Others Group,Formerly active,Polar,-74.695,164.1230551298756,44
+GAPS_WE25,A_CA_Lit_GAPS,"Little Fox Lake, Yukon",Canada,CAN,GAPS,Western European and Others Group,Active,Background,61.34999637931557,-135.6333366515115,1072
+GAPS_WE26,A_US_Dye_GAPS,"Dyea, Alaska",United States,USA,GAPS,Western European and Others Group,Active,Background,59.52039628780516,-135.3501350007557,23
+GAPS_WE27,A_CA_Cort_GAPS,"Cortes Island, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,50.059992,-124.983781,0
+GAPS_WE28,A_CA_Las_GAPS,"Lasqueti Island, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,49.4833352171205,-124.2499881766689,32
+GAPS_WE29,A_CA_Sat_GAPS,"Saturna Island, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,48.783,-123.05,0
+GAPS_WE30,A_FI_Pal_GAPS,"Matorova station, Pallas",Finland,FIN,GAPS,Western European and Others Group,Active,Background,67.99999999922173,24.24000000161006,324
+GAPS_WE31,A_NZ_Nor_GAPS,North Island,New Zealand,NZL,GAPS,Western European and Others Group,Formerly active,Background,-37.81054400037515,176.182860999971,357
+GAPS_WE32,A_CA_Fra_GAPS,"Fraserdale, Ontario",Canada,CAN,GAPS,Western European and Others Group,Active,Background,49.88333300083706,-81.5666669999695,166
+GAPS_WE33,A_CA_Ucl_GAPS,"Ucluelet, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Active,Background,48.93333300829153,-125.5166665585184,14
+GAPS_WE34,A_CA_Sab_GAPS,"Sable Island, Nova Scotia",Canada,CAN,GAPS,Western European and Others Group,Active,Background,43.932624,-60.005971,4
+GAPS_WE35,A_US_Poi_GAPS,"Point Reyes, California",United States,USA,GAPS,Western European and Others Group,Active,Background,38.0415500004858,-122.7943699915575,37
+GAPS_WE36,A_US_Syd_GAPS,"Sydney, Florida",United States,USA,GAPS,Western European and Others Group,Active,Urban,27.96666700617468,-82.21666702450247,23
+GAPS_WE37,A_US_Mau_GAPS,"Mauna Loa Observatory, Hilo, Hawaii",United States,USA,GAPS,Western European and Others Group,Active,Background,19.535914,-155.5767,3319
+GAPS_WE38,A_AS_Tul_GAPS,"Tula, Cape Matatula, American Samoa",American Samoa,ASM,GAPS,Western European and Others Group,Active,Background,-14.247562,-170.564532,42
+GAPS_WE39,A_NZ_Tem_GAPS,"Temple Basin, Arthur's Pass National Park",New Zealand,NZL,GAPS,Western European and Others Group,Active,Background,-42.90888899913759,171.5747219995499,1345
+GAPS_WE40,A_US_Gro_GAPS,"Groton, Connecticut",United States,USA,GAPS,Western European and Others Group,Active,Background,41.31670975403606,-72.06669779794517,4
+GAPS_WE41,A_ES_Don_GAPS,Doñana National Park,Spain,ESP,GAPS,Western European and Others Group,Active,Background,37.05333300210258,-6.554167000442006,35
+GAPS_WE42,A_CA_Cora_GAPS,"Coral Harbour, Nunavut",Canada,CAN,GAPS,Western European and Others Group,Formerly active,Background,64.187919,-83.347167,9
+GAPS_WE43,A_CA_Mou_GAPS,"Mount Revelstoke, British Columbia",Canada,CAN,GAPS,Western European and Others Group,Active,Background,51.07003028376555,-118.1087193294719,1917
+GAPS_WE44,A_ES_Iza_GAPS,"Izaña, Tenerife, Canary Islands",Spain,ESP,GAPS,Western European and Others Group,Active,Background,28.30898347137847,-16.49938423053109,2367
+GAPS_WE45,A_CA_Lon_GAPS,"Longwoods, Ontario",Canada,CAN,GAPS,Western European and Others Group,Active,Rural,42.88333300106874,-81.48055600008897,237
+GAPS_WE46,A_CA_War_GAPS,"Warsaw Caves, Ontario",Canada,CAN,GAPS,Western European and Others Group,Active,Rural,44.46388888745553,-78.13055624220628,226
+GAPS_WE47,A_CA_Egb_GAPS,"CARE Station, Egbert, Ontario",Canada,CAN,GAPS,Western European and Others Group,Active,Rural,44.231106,-79.783091,242
+GAPS-MC_WE01,A_CA_Tor_GAPS-MC,Toronto,Canada,CAN,GAPS-Megacities,Western European and Others Group,Active,Urban,43.659,-79.3965,104
+GAPS-MC_WE02,A_US_New_GAPS-MC,New York City,United States,USA,GAPS-Megacities,Western European and Others Group,Active,Urban,40.7301,-73.9989,8
+GAPS-MC_WE03,A_AU_Syd_GAPS-MC,Sydney,Australia,AUS,GAPS-Megacities,Western European and Others Group,Active,Urban,-33.7962,151.1449,56
+GAPS-MC_WE04,A_TR_Ist_GAPS-MC,Istanbul,Türkiye,TUR,GAPS-Megacities,Western European and Others Group,Active,Urban,41.0082,28.9784,38
+GAPS-MC_WE05,A_GB_Lon_GAPS-MC,London,United Kingdom,GBR,GAPS-Megacities,Western European and Others Group,Active,Urban,51.496,-0.127,22
+GAPS-MC_WE06,A_ES_Mad_GAPS-MC,Madrid,Spain,ESP,GAPS-Megacities,Western European and Others Group,Active,Urban,40.4432,-3.6846,705
+GAPS-MC_GR01,A_BR_Sao_GAPS-MC,São Paulo,Brazil,BRA,GAPS-Megacities,Latin America and the Caribbean,Active,Urban,-23.6183,-46.6355,800
+GAPS-MC_GR02,A_CO_Bog_GAPS-MC,Bogota,Colombia,COL,GAPS-Megacities,Latin America and the Caribbean,Active,Urban,4.6368,-74.0834,2557
+GAPS-MC_GR03,A_MX_Mex_GAPS-MC,Mexico City,Mexico,MEX,GAPS-Megacities,Latin America and the Caribbean,Active,Urban,19.2465,-99.1013,2275
+GAPS-MC_GR04,A_CL_San_GAPS-MC,Santiago,Chile,CHL,GAPS-Megacities,Latin America and the Caribbean,Active,Urban,-33.4378,-70.6504,575
+GAPS-MC_GR05,A_AR_Bue_GAPS-MC,Buenos Aires,Argentina,ARG,GAPS-Megacities,Latin America and the Caribbean,Active,Urban,-34.5581,-58.4867,16
+GAPS-MC_AS01,A_IN_Kol_GAPS-MC,Kolkata,India,IND,GAPS-Megacities,Asia-Pacific,Formerly active,Urban,22.5726,88.3639,16
+GAPS-MC_AS02,A_CN_Bei_GAPS-MC,Beijing,China,CHN,GAPS-Megacities,Asia-Pacific,Active,Urban,39.9042,116.4074,53
+GAPS-MC_AS03,A_TH_Ban_GAPS-MC,Bangkok,Thailand,THA,GAPS-Megacities,Asia-Pacific,Active,Urban,13.7235,100.5216,22
+GAPS-MC_AS04,A_JP_Tok_GAPS-MC,Tokyo,Japan,JPN,GAPS-Megacities,Asia-Pacific,Active,Urban,35.6895,139.6917,40
+GAPS-MC_AS05,A_IN_New_GAPS-MC,New Delhi,India,IND,GAPS-Megacities,Asia-Pacific,Active,Urban,28.5897,77.2257,217
+GAPS-MC_AS06,A_KR_Seo_GAPS-MC,Seoul,South Korea,KOR,GAPS-Megacities,Asia-Pacific,Active,Urban,36.372,127.363,66
+GAPS-MC_AS07,A_SA_Riy_GAPS-MC,Riyadh,Saudi Arabia,SAU,GAPS-Megacities,Asia-Pacific,Active,Urban,24.7222,46.6259,647
+GAPS-MC_AF01,A_NG_Lag_GAPS-MC,Lagos,Nigeria,NGA,GAPS-Megacities,Africa,Active,Urban,6.5244,3.3792,13
+GAPS-MC_AF02,A_EG_Cai_GAPS-MC,Cairo,Egypt,EGY,GAPS-Megacities,Africa,Active,Urban,30.0141,31.486,323
+GAPS-MC_AF04,A_ZA_Pre_GAPS-MC,Pretoria,South Africa,ZAF,GAPS-Megacities,Africa,Active,Urban,-26.1929,28.0305,1764
+GAPS-MC_EE01,A_PL_War_GAPS-MC,Warsaw,Poland,POL,GAPS-Megacities,Central and Eastern Europe,Active,Urban,52.2216,21.0073,118

@@ -1,0 +1,112 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF03,Kalahari,South Africa,GAPS,2007,PCB,3,7,21,2
+GAPS_AF03,Kalahari,South Africa,GAPS,2007,OCP,3,11,33,16
+GAPS_AF04,De Aar,South Africa,GAPS,2007,PCB,4,7,28,19
+GAPS_AF04,De Aar,South Africa,GAPS,2007,OCP,4,11,44,25
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2007,PCB,1,7,7,5
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2007,OCP,1,11,11,6
+GAPS_AS03,Seoul,South Korea,GAPS,2007,PCB,4,7,28,21
+GAPS_AS03,Seoul,South Korea,GAPS,2007,OCP,4,11,44,28
+GAPS_AS04,Pohang,South Korea,GAPS,2007,PCB,4,7,28,21
+GAPS_AS04,Pohang,South Korea,GAPS,2007,OCP,4,11,44,28
+GAPS_AS09,East Arjun Nagar,India,GAPS,2007,PCB,4,7,28,28
+GAPS_AS09,East Arjun Nagar,India,GAPS,2007,OCP,4,11,44,29
+GAPS_AS10,Bawana,India,GAPS,2007,PCB,4,7,28,28
+GAPS_AS10,Bawana,India,GAPS,2007,OCP,4,11,44,29
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2007,PCB,4,7,28,3
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2007,OCP,4,11,44,9
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2007,PCB,4,7,28,9
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2007,OCP,4,11,44,16
+GAPS_AS14,Kaddu Khal,India,GAPS,2007,PCB,4,7,28,20
+GAPS_AS14,Kaddu Khal,India,GAPS,2007,OCP,4,11,44,20
+GAPS_AS15,Laksar,India,GAPS,2007,PCB,4,7,17,16
+GAPS_AS15,Laksar,India,GAPS,2007,OCP,4,11,44,26
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2007,PCB,1,7,7,0
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2007,OCP,1,11,11,5
+GAPS_AS17,Patna,India,GAPS,2007,PCB,4,7,28,23
+GAPS_AS17,Patna,India,GAPS,2007,OCP,4,11,44,28
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2007,PCB,1,7,7,5
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2007,OCP,1,11,11,7
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2007,PCB,2,7,14,0
+GAPS_AS20,"Nam Co, Tibet",China,GAPS,2007,OCP,2,11,22,0
+GAPS_AS21,Abdaly,Kuwait,GAPS,2007,PCB,4,7,28,20
+GAPS_AS21,Abdaly,Kuwait,GAPS,2007,OCP,4,11,44,20
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2007,PCB,4,7,28,22
+GAPS_AS22,Tagaytay City,Philippines,GAPS,2007,OCP,4,11,44,26
+GAPS_AS23,Ooty,India,GAPS,2007,PCB,2,7,14,6
+GAPS_AS23,Ooty,India,GAPS,2007,OCP,2,11,22,12
+GAPS_AS24,"Coimbatore, Tamil Nadu",India,GAPS,2007,PCB,3,7,21,12
+GAPS_AS24,"Coimbatore, Tamil Nadu",India,GAPS,2007,OCP,3,11,33,21
+GAPS_AS25,Aliyar Nagar,India,GAPS,2007,PCB,2,7,14,12
+GAPS_AS25,Aliyar Nagar,India,GAPS,2007,OCP,2,11,22,11
+GAPS_EE01,Danki,Russia,GAPS,2007,PCB,4,7,28,23
+GAPS_EE01,Danki,Russia,GAPS,2007,OCP,4,11,44,23
+GAPS_EE02,Pomlewo,Poland,GAPS,2007,PCB,4,7,28,22
+GAPS_EE02,Pomlewo,Poland,GAPS,2007,OCP,4,11,44,29
+GAPS_EE03,Košetice,Czechia,GAPS,2007,PCB,4,7,28,22
+GAPS_EE03,Košetice,Czechia,GAPS,2007,OCP,4,11,44,19
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2007,PCB,3,7,21,11
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2007,OCP,3,11,33,9
+GAPS_GR04,Arauca,Colombia,GAPS,2007,PCB,3,7,21,12
+GAPS_GR04,Arauca,Colombia,GAPS,2007,OCP,3,11,33,15
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2007,PCB,3,7,21,18
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2007,OCP,3,11,33,20
+GAPS_GR09,Coyhaique,Chile,GAPS,2007,PCB,4,7,28,0
+GAPS_GR09,Coyhaique,Chile,GAPS,2007,OCP,4,11,44,0
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2007,PCB,4,7,28,28
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2007,OCP,4,11,44,27
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2007,PCB,3,7,21,17
+GAPS_GR11,St. Peter and St. Paul Rocks,Brazil,GAPS,2007,OCP,3,11,33,11
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2007,OCP,4,11,44,23
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2007,PCB,4,7,28,24
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2007,OCP,4,11,44,28
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2007,OCP,4,11,44,33
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,PCB,3,7,21,16
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,DP,1,2,2,0
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2007,OCP,3,11,33,17
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,PCB,4,7,28,25
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2007,OCP,4,11,44,22
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2007,PCB,4,7,28,28
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2007,OCP,4,11,44,26
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2007,PCB,2,7,14,9
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2007,OCP,2,11,22,12
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,PCB,4,7,28,25
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,DP,1,2,2,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2007,OCP,4,11,44,26
+GAPS_WE16,Malin Head,Ireland,GAPS,2007,PCB,4,7,28,23
+GAPS_WE16,Malin Head,Ireland,GAPS,2007,OCP,4,11,44,13
+GAPS_WE17,Paris,France,GAPS,2007,PCB,4,7,28,28
+GAPS_WE17,Paris,France,GAPS,2007,DP,1,2,2,1
+GAPS_WE17,Paris,France,GAPS,2007,OCP,4,11,44,31
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2007,PCB,4,7,28,28
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2007,OCP,4,11,44,23
+GAPS_WE22,Darwin,Australia,GAPS,2007,PCB,4,7,28,21
+GAPS_WE22,Darwin,Australia,GAPS,2007,OCP,4,11,44,21
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,PCB,2,7,14,8
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,DP,1,2,2,1
+GAPS_WE23,Cape Grim,Australia,GAPS,2007,OCP,2,11,22,14
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2007,PCB,2,7,14,11
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2007,OCP,2,11,22,14
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2007,PCB,2,7,14,8
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2007,OCP,2,11,22,9
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2007,PCB,4,7,28,20
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2007,OCP,4,11,44,23
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2007,PCB,4,7,28,24
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2007,OCP,4,11,44,25
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,DP,1,2,2,1
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2007,OCP,4,11,44,34
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2007,PCB,3,7,21,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2007,OCP,3,11,33,20
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,PCB,4,7,28,23
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,DP,1,2,2,2
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2007,OCP,4,11,44,31
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2007,OCP,4,11,44,37
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2007,PCB,3,7,21,18
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2007,OCP,3,11,33,21
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2007,PCB,3,7,21,10
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2007,OCP,3,11,33,21
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2007,OCP,3,11,33,15

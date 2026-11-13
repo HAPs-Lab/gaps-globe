@@ -1,0 +1,58 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_EE03,Košetice,Czechia,GAPS,2013,nPFAS,4,10,40,23
+GAPS_EE03,Košetice,Czechia,GAPS,2013,PFAA,4,17,68,24
+GAPS_EE03,Košetice,Czechia,GAPS,2013,VMS,4,7,28,16
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,nPFAS,3,10,30,9
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,PFAA,3,17,51,24
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2013,VMS,3,7,21,10
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,nPFAS,4,10,40,8
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,PFAA,4,17,68,19
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,nPFAS,3,10,30,10
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,PFAA,4,17,68,44
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2013,VMS,4,7,28,15
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,nPFAS,3,10,30,19
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2013,VMS,3,7,21,18
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,nPFAS,4,10,40,19
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,PFAA,4,17,68,29
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2013,VMS,4,7,28,19
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,nPFAS,2,10,20,8
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,PFAA,2,17,34,17
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2013,VMS,2,7,14,9
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,nPFAS,3,10,30,5
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2013,VMS,3,7,21,13
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,nPFAS,4,10,40,18
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,PFAA,4,17,68,16
+GAPS_WE16,Malin Head,Ireland,GAPS,2013,VMS,4,7,28,17
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,nPFAS,4,10,40,9
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,PFAA,3,17,51,13
+GAPS_WE23,Cape Grim,Australia,GAPS,2013,VMS,4,7,28,16
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,nPFAS,3,10,30,9
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,PFAA,3,17,51,22
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2013,VMS,3,7,21,13
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,nPFAS,4,10,40,17
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,PFAA,4,17,68,29
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,nPFAS,4,10,40,17
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,PFAA,4,17,68,20
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2013,VMS,4,7,28,17
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,nPFAS,4,10,40,15
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,PFAA,4,17,68,42
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2013,VMS,4,7,28,16
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,nPFAS,3,10,30,7
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,PFAA,3,17,51,26
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2013,VMS,3,7,21,14
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,nPFAS,4,10,40,21
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,PFAA,4,17,68,36
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2013,VMS,4,7,28,18
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,nPFAS,4,10,40,7
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,PFAA,4,17,68,31
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2013,VMS,4,7,28,17
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,nPFAS,1,10,10,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,PFAA,1,17,17,6
+GAPS_WE40,"Groton, Connecticut",United States,GAPS,2013,VMS,1,7,7,4
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,nPFAS,1,10,10,2
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,PFAA,1,17,17,5
+GAPS_WE43,"Mount Revelstoke, British Columbia",Canada,GAPS,2013,VMS,1,7,7,4

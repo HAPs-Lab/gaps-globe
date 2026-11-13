@@ -1,0 +1,122 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,nPFAS,1,7,7,5
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,PFAA,1,17,17,14
+GAPS_AF10,"Yaba, Lagos",Nigeria,GAPS,2017,VMS,1,7,7,6
+GAPS_AS11,Manila,Philippines,GAPS,2017,nPFAS,1,7,7,7
+GAPS_AS11,Manila,Philippines,GAPS,2017,PFAA,1,17,17,9
+GAPS_AS11,Manila,Philippines,GAPS,2017,VMS,1,7,7,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,nPFAS,1,7,7,6
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,PFAA,1,17,17,2
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2017,VMS,1,7,7,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,nPFAS,1,7,7,5
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,PFAA,1,17,17,2
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2017,VMS,1,7,7,6
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,nPFAS,1,7,7,2
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,PFAA,1,17,17,12
+GAPS_AS19,"Gosan, Jeju Island",South Korea,GAPS,2017,VMS,1,7,7,5
+GAPS_EE03,Košetice,Czechia,GAPS,2017,nPFAS,1,7,7,5
+GAPS_EE03,Košetice,Czechia,GAPS,2017,PFAA,1,17,17,11
+GAPS_EE03,Košetice,Czechia,GAPS,2017,VMS,1,7,7,7
+GAPS_GR04,Arauca,Colombia,GAPS,2017,nPFAS,1,7,7,2
+GAPS_GR04,Arauca,Colombia,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR04,Arauca,Colombia,GAPS,2017,VMS,1,7,7,6
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,nPFAS,1,7,7,5
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,PFAA,1,17,17,12
+GAPS_GR12,"Ragged Point, St. Philip",Barbados,GAPS,2017,VMS,1,7,7,6
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,nPFAS,1,7,7,4
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR20,"Pierre Auger Observatory, Patagonia Flats",Argentina,GAPS,2017,VMS,1,7,7,6
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,nPFAS,1,7,7,0
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,PFAA,1,17,17,14
+GAPS_GR21,Mendoza,Argentina,GAPS,2017,VMS,1,7,7,6
+GAPS_GR22,Manizales,Colombia,GAPS,2017,nPFAS,1,7,7,2
+GAPS_GR22,Manizales,Colombia,GAPS,2017,PFAA,1,17,17,4
+GAPS_GR22,Manizales,Colombia,GAPS,2017,VMS,1,7,7,6
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,PFAA,1,17,17,12
+GAPS_GR23,São Luis do Maranha,Brazil,GAPS,2017,VMS,1,7,7,7
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,PFAA,1,17,17,10
+GAPS_GR24,São Jose dos Ausentes,Brazil,GAPS,2017,VMS,1,7,7,6
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,nPFAS,1,7,7,6
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,PFAA,1,17,17,13
+GAPS_GR25,Itatiaia,Brazil,GAPS,2017,VMS,1,7,7,6
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,nPFAS,1,7,7,0
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,PFAA,1,17,17,9
+GAPS_GR29,Chacaltaya,Bolivia,GAPS,2017,VMS,1,7,7,5
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,nPFAS,1,7,7,2
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,PFAA,1,17,17,2
+GAPS_WE01,"Alert, Nunavut",Canada,GAPS,2017,VMS,1,7,7,5
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2017,VMS,1,7,7,7
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE03,"St. Lawrence Island, Alaska",United States,GAPS,2017,VMS,1,7,7,5
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,PFAA,1,17,17,13
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,nPFAS,1,7,7,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,PFAA,1,17,17,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2017,VMS,1,7,7,6
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2017,VMS,1,7,7,5
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,PFAA,1,17,17,9
+GAPS_WE16,Malin Head,Ireland,GAPS,2017,VMS,1,7,7,7
+GAPS_WE17,Paris,France,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE17,Paris,France,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE17,Paris,France,GAPS,2017,VMS,1,7,7,7
+GAPS_WE22,Darwin,Australia,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE22,Darwin,Australia,GAPS,2017,PFAA,1,17,17,8
+GAPS_WE22,Darwin,Australia,GAPS,2017,VMS,1,7,7,7
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,PFAA,1,17,17,10
+GAPS_WE25,"Little Fox Lake, Yukon",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE32,"Fraserdale, Ontario",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE33,"Ucluelet, British Columbia",Canada,GAPS,2017,VMS,1,7,7,4
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE34,"Sable Island, Nova Scotia",Canada,GAPS,2017,VMS,1,7,7,6
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE35,"Point Reyes, California",United States,GAPS,2017,VMS,1,7,7,6
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,nPFAS,1,7,7,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,PFAA,1,17,17,3
+GAPS_WE36,"Sydney, Florida",United States,GAPS,2017,VMS,1,7,7,7
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,PFAA,1,17,17,0
+GAPS_WE37,"Mauna Loa Observatory, Hilo, Hawaii",United States,GAPS,2017,VMS,1,7,7,5
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,PFAA,1,17,17,5
+GAPS_WE38,"Tula, Cape Matatula, American Samoa",American Samoa,GAPS,2017,VMS,1,7,7,2
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,PFAA,1,17,17,6
+GAPS_WE39,"Temple Basin, Arthur's Pass National Park",New Zealand,GAPS,2017,VMS,1,7,7,6
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,nPFAS,1,7,7,1
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,PFAA,1,17,17,7
+GAPS_WE41,Doñana National Park,Spain,GAPS,2017,VMS,1,7,7,6
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,nPFAS,1,7,7,6
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,PFAA,1,17,17,11
+GAPS_WE42,"Coral Harbour, Nunavut",Canada,GAPS,2017,VMS,1,7,7,5
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,nPFAS,1,7,7,0
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,PFAA,1,17,17,13
+GAPS_WE44,"Izaña, Tenerife, Canary Islands",Spain,GAPS,2017,VMS,1,7,7,6
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,5
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,PFAA,1,17,17,8
+GAPS_WE46,"Warsaw Caves, Ontario",Canada,GAPS,2017,VMS,1,7,7,7
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,nPFAS,1,7,7,7
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,PFAA,1,17,17,12
+GAPS_WE47,"CARE Station, Egbert, Ontario",Canada,GAPS,2017,VMS,1,7,7,7

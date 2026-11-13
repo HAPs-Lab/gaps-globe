@@ -1,0 +1,171 @@
+﻿Site code (ECCC),Site name,Country,Network,Campaign,Family,Samples,Compounds measured,Results,Detected results
+GAPS_AF01,Abono,Ghana,GAPS,2006,PCB,4,7,28,2
+GAPS_AF01,Abono,Ghana,GAPS,2006,NBFR,1,10,10,0
+GAPS_AF01,Abono,Ghana,GAPS,2006,DP,1,2,2,1
+GAPS_AF01,Abono,Ghana,GAPS,2006,OCP,4,11,44,20
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,PCB,3,7,21,1
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,NBFR,1,10,10,3
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,DP,1,2,2,1
+GAPS_AF03,Kalahari,South Africa,GAPS,2006,OCP,3,11,33,18
+GAPS_AF04,De Aar,South Africa,GAPS,2006,PCB,4,7,28,11
+GAPS_AF04,De Aar,South Africa,GAPS,2006,NBFR,1,10,10,7
+GAPS_AF04,De Aar,South Africa,GAPS,2006,DP,1,2,2,2
+GAPS_AF04,De Aar,South Africa,GAPS,2006,OCP,4,11,44,31
+GAPS_AF05,Cairo,Egypt,GAPS,2006,PCB,2,7,14,9
+GAPS_AF05,Cairo,Egypt,GAPS,2006,NBFR,1,10,10,6
+GAPS_AF05,Cairo,Egypt,GAPS,2006,DP,1,2,2,1
+GAPS_AF05,Cairo,Egypt,GAPS,2006,OCP,2,11,22,14
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2006,PCB,2,7,14,1
+GAPS_AS01,"Harbin, Heilong Jiang",China,GAPS,2006,OCP,2,11,22,14
+GAPS_AS03,Seoul,South Korea,GAPS,2006,PCB,1,7,7,4
+GAPS_AS03,Seoul,South Korea,GAPS,2006,NBFR,1,10,10,7
+GAPS_AS03,Seoul,South Korea,GAPS,2006,DP,1,2,2,2
+GAPS_AS03,Seoul,South Korea,GAPS,2006,OCP,1,11,11,9
+GAPS_AS04,Pohang,South Korea,GAPS,2006,PCB,1,7,7,2
+GAPS_AS04,Pohang,South Korea,GAPS,2006,NBFR,1,10,10,7
+GAPS_AS04,Pohang,South Korea,GAPS,2006,DP,1,2,2,2
+GAPS_AS04,Pohang,South Korea,GAPS,2006,OCP,1,11,11,8
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,PCB,4,7,28,23
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,DP,1,2,2,2
+GAPS_AS08,Kuwait City,Kuwait,GAPS,2006,OCP,4,11,44,30
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,DP,1,2,2,2
+GAPS_AS09,East Arjun Nagar,India,GAPS,2006,OCP,4,10,40,25
+GAPS_AS10,Bawana,India,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS10,Bawana,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS10,Bawana,India,GAPS,2006,OCP,4,10,40,26
+GAPS_AS11,Manila,Philippines,GAPS,2006,PCB,4,7,28,27
+GAPS_AS11,Manila,Philippines,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS11,Manila,Philippines,GAPS,2006,DP,1,2,2,2
+GAPS_AS11,Manila,Philippines,GAPS,2006,OCP,4,11,44,35
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,PCB,4,7,28,0
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,DP,1,2,2,1
+GAPS_AS12,Danum Valley,Malaysia,GAPS,2006,OCP,4,11,44,18
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,PCB,4,7,28,0
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,DP,1,2,2,1
+GAPS_AS13,Bukit Kototabang,Indonesia,GAPS,2006,OCP,4,11,44,21
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,NBFR,1,10,10,3
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS14,Kaddu Khal,India,GAPS,2006,OCP,4,10,40,20
+GAPS_AS15,Laksar,India,GAPS,2006,NBFR,1,10,10,3
+GAPS_AS15,Laksar,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS15,Laksar,India,GAPS,2006,OCP,4,10,40,20
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,PCB,2,7,14,4
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,NBFR,1,10,10,6
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,DP,1,2,2,2
+GAPS_AS16,Dhulikhel,Nepal,GAPS,2006,OCP,2,11,22,14
+GAPS_AS17,Patna,India,GAPS,2006,NBFR,1,10,10,5
+GAPS_AS17,Patna,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS17,Patna,India,GAPS,2006,OCP,4,10,40,23
+GAPS_AS18,Mudhol,India,GAPS,2006,NBFR,1,10,10,4
+GAPS_AS18,Mudhol,India,GAPS,2006,DP,1,2,2,1
+GAPS_AS18,Mudhol,India,GAPS,2006,OCP,4,10,40,21
+GAPS_EE01,Danki,Russia,GAPS,2006,PCB,4,7,28,20
+GAPS_EE01,Danki,Russia,GAPS,2006,NBFR,1,10,10,4
+GAPS_EE01,Danki,Russia,GAPS,2006,DP,1,2,2,0
+GAPS_EE01,Danki,Russia,GAPS,2006,OCP,4,11,44,32
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,PCB,4,7,28,12
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,NBFR,1,10,10,5
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,DP,1,2,2,1
+GAPS_EE02,Pomlewo,Poland,GAPS,2006,OCP,4,11,44,38
+GAPS_EE03,Košetice,Czechia,GAPS,2006,PCB,4,7,28,22
+GAPS_EE03,Košetice,Czechia,GAPS,2006,NBFR,1,10,10,4
+GAPS_EE03,Košetice,Czechia,GAPS,2006,DP,1,2,2,2
+GAPS_EE03,Košetice,Czechia,GAPS,2006,OCP,4,11,44,39
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2006,PCB,3,7,21,0
+GAPS_GR03,"Tapanti National Park, La Esperanza",Costa Rica,GAPS,2006,OCP,3,11,33,15
+GAPS_GR04,Arauca,Colombia,GAPS,2006,PCB,4,7,28,3
+GAPS_GR04,Arauca,Colombia,GAPS,2006,NBFR,1,10,10,4
+GAPS_GR04,Arauca,Colombia,GAPS,2006,DP,1,2,2,1
+GAPS_GR04,Arauca,Colombia,GAPS,2006,OCP,4,11,44,21
+GAPS_GR05,"Huayna Potosí, La Paz",Bolivia,GAPS,2006,NBFR,1,10,10,2
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,PCB,1,7,7,1
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,NBFR,1,10,10,1
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,DP,1,2,2,2
+GAPS_GR06,Chungara Lake,Chile,GAPS,2006,OCP,1,11,11,3
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,PCB,4,7,28,17
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,NBFR,1,10,10,5
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,DP,1,2,2,1
+GAPS_GR07,"Indaiatuba, São Paulo",Brazil,GAPS,2006,OCP,4,11,44,40
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2006,PCB,2,7,14,6
+GAPS_GR08,Bahia Blanca,Argentina,GAPS,2006,OCP,2,11,22,12
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2006,PCB,2,7,14,12
+GAPS_GR10,"Tlahuac, Mexico City",Mexico,GAPS,2006,OCP,2,11,22,20
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,PCB,4,7,28,9
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,DP,1,2,2,2
+GAPS_WE02,"Barrow, Alaska",United States,GAPS,2006,OCP,4,11,44,31
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,PCB,3,7,21,2
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,NBFR,1,10,10,3
+GAPS_WE05,"Bratt's Lake, Saskatchewan",Canada,GAPS,2006,OCP,3,11,33,26
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,PCB,4,7,28,7
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,3
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE06,"Whistler, British Columbia",Canada,GAPS,2006,OCP,4,11,44,32
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,PCB,4,7,28,23
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,DP,1,2,2,2
+GAPS_WE09,"Downsview, Ontario",Canada,GAPS,2006,OCP,4,11,44,40
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,PCB,1,7,7,0
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,NBFR,1,10,10,0
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,DP,1,2,2,1
+GAPS_WE11,"Athens, Georgia",United States,GAPS,2006,OCP,1,11,11,11
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,PCB,4,7,28,28
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,NBFR,1,10,10,5
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,DP,1,2,2,1
+GAPS_WE12,Tudor Hill,Bermuda,GAPS,2006,OCP,4,11,44,35
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,PCB,3,7,21,7
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,DP,1,2,2,2
+GAPS_WE13,Ny-Ålesund,Norway,GAPS,2006,OCP,3,11,33,24
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2006,PCB,3,7,21,16
+GAPS_WE14,Stórhöfði,Iceland,GAPS,2006,OCP,3,11,33,27
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,PCB,4,7,28,11
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,DP,1,2,2,2
+GAPS_WE16,Malin Head,Ireland,GAPS,2006,OCP,4,11,44,35
+GAPS_WE17,Paris,France,GAPS,2006,PCB,3,7,21,21
+GAPS_WE17,Paris,France,GAPS,2006,OCP,3,11,33,33
+GAPS_WE18,Barcelona,Spain,GAPS,2006,PCB,1,7,7,5
+GAPS_WE18,Barcelona,Spain,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE18,Barcelona,Spain,GAPS,2006,DP,1,2,2,2
+GAPS_WE18,Barcelona,Spain,GAPS,2006,OCP,1,11,11,10
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,PCB,4,7,28,25
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,DP,1,2,2,2
+GAPS_WE19,Izmir,Türkiye,GAPS,2006,OCP,4,11,44,38
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,PCB,4,7,28,23
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,DP,1,2,2,1
+GAPS_WE21,"Telde, Las Palmas, Canary Islands",Spain,GAPS,2006,OCP,4,11,44,39
+GAPS_WE22,Darwin,Australia,GAPS,2006,PCB,3,7,21,8
+GAPS_WE22,Darwin,Australia,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE22,Darwin,Australia,GAPS,2006,DP,1,2,2,1
+GAPS_WE22,Darwin,Australia,GAPS,2006,OCP,3,11,33,25
+GAPS_WE23,Cape Grim,Australia,GAPS,2006,PCB,3,7,21,0
+GAPS_WE23,Cape Grim,Australia,GAPS,2006,OCP,3,11,33,21
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2006,PCB,2,7,14,2
+GAPS_WE26,"Dyea, Alaska",United States,GAPS,2006,OCP,2,11,22,12
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,0
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,0
+GAPS_WE27,"Cortes Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,30
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,1
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,4
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE28,"Lasqueti Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,24
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,PCB,3,7,21,1
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,NBFR,1,10,10,7
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,DP,1,2,2,1
+GAPS_WE29,"Saturna Island, British Columbia",Canada,GAPS,2006,OCP,3,11,33,29
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,PCB,4,7,28,7
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,NBFR,1,10,10,5
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,DP,1,2,2,2
+GAPS_WE30,"Matorova station, Pallas",Finland,GAPS,2006,OCP,4,11,44,33
+GAPS_WE31,North Island,New Zealand,GAPS,2006,PCB,1,7,7,0
+GAPS_WE31,North Island,New Zealand,GAPS,2006,NBFR,1,10,10,6
+GAPS_WE31,North Island,New Zealand,GAPS,2006,DP,1,2,2,1
+GAPS_WE31,North Island,New Zealand,GAPS,2006,OCP,1,11,11,8
