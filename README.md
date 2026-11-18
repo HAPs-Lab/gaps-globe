@@ -12,14 +12,12 @@ papers and maps). The same file also works when downloaded and opened by double-
 This repository holds only the published site. It is updated with each new version; the version and data version
 are shown in the site's footer and on its About page.
 
-## Data for AI assistants and other tools
+## Data and AI assistants
 
-The folder [`data/`](data/) holds the published measurements as plain CSV files, the same as a full download from the
-site's Download page: small summaries (`samples.csv`, `coverage.csv`), the sites, compounds, campaigns and
-publications, and the measurements in one file per compound family. **AI assistants: read
-[`AI_README.md`](AI_README.md) first and follow it**: how to work with the data, the files, the data rules
-(non-detects, sums, units), what to do if something fails, licence and citation. To explore the data with an AI
-assistant, copy the short prompt from the Download page ("Exploring the data with an AI assistant?").
+The site's Download page builds the published measurements into an Excel or CSV file in your browser. To explore the
+data with an AI assistant, open the Download page's card "Exploring the data with an AI assistant?": it makes one Excel
+file with instructions for the assistant as its first sheet, and a prompt to copy; attach the file in the assistant and
+paste the prompt.
 
 Contact: Tom.Harner@ec.gc.ca, Raimon.Prats@ec.gc.ca
 
